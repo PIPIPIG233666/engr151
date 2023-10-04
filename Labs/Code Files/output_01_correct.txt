@@ -1,0 +1,4 @@
+Enter the length of the wire(m): 
+Enter the radius of the wire(mm): 
+Enter the resistivity of the wire(Ohm*m): 
+The resistance of the wire is: 0.0171092 Ohms
