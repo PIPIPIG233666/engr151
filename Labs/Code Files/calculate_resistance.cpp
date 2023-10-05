@@ -27,7 +27,7 @@ int main()
 
     double cross_sectional_area = pi * radius * radius * 1e-6;
 
-    double resistance = (resistivity * legth) / cross_sectional_area
+    double resistance = (resistivity * length) / cross_sectional_area;
     
     cout << "The resistance of the wire is: " << resistance << " Ohms" << endl;
 
