@@ -13,8 +13,7 @@ int main() {
   int arr[2048] = {0, 1};
   // Initialize the user input to be 0
   int n = 0;
-  // Print out the message for user input
-  printf("how many fibonacci numbers do you want printed?\n");
+  printf("how many fibonacci numbers do you want printed?");
   cin >> n;
   // implement fib using while loop
   // Initialize the counter to be zero

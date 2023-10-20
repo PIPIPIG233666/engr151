@@ -13,7 +13,7 @@ int main() {
   // Initialize the user input to be 0
   int n = 0;
   // Print out the message for user input
-  printf("how many fibonacci numbers do you want printed?\n");
+  printf("how many fibonacci numbers do you want printed?");
   cin >> n;
   // implement fib using for loop
   for (int i = 0; i < n; i++) {
