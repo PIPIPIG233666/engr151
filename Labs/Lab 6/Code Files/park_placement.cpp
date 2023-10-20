@@ -27,7 +27,7 @@ int NumIntersectPoints(int x1, int x2, int y1, int y2, int r1, int r2) {
     // 5. no is
     // 6. no is
     bool concentric = dis == 0;
-    cout << "conce:" << concentric<< "  rsum:" << rSum<<"  dis:" << dis<<"  rdiff:" << rDif <<"   ";
+    //cout << "conce:" << concentric<< "  rsum:" << rSum<<"  dis:" << dis<<"  rdiff:" << rDif <<"   ";
     if (concentric) {
       if (rDif == 0)
         ret = -1;
@@ -36,7 +36,7 @@ int NumIntersectPoints(int x1, int x2, int y1, int y2, int r1, int r2) {
     } else {
       if ((dis < rSum) && (dis>rDif))
         ret = 2;
-      else if (dis == rSum)
+      else if ((dis == rSum) || (dis == rDif))
         ret = 1;
       else
         ret = 0;
@@ -59,43 +59,7 @@ int main() {
   // call your function with specific inputs
   // check the output with assert statements
   int x1, y1, r1, x2, y2, r2;
-  // cin >> x1 >> x2 >> y1 >> y2 >> r1 >> r2;
-
-    // Test Case 1: Two non-overlapping parks
-    x1 = 0; y1 = 0; r1 = 2;
-    x2 = 5; y2 = 5; r2 = 3;
-
+  cin >> x1 >> x2 >> y1 >> y2 >> r1 >> r2;
   cout << NumIntersectPoints(x1, x2, y1, y2, r1, r2);
-  cout << endl;
-    // Test Case 2: One park is entirely inside the other
-    x1 = 4; y1 = 4; r1 = 2;
-    x2 = 5; y2 = 5; r2 = 6;
-
-  cout << NumIntersectPoints(x1, x2, y1, y2, r1, r2);
-  cout << endl;
-    // Test Case 3: Two parks have exactly one intersection point
-    x1 = 1; y1 = 4; r1 = 5;
-    x2 = 5; y2 = 5; r2 = 3;
-
-  cout << NumIntersectPoints(x1, x2, y1, y2, r1, r2);
-  cout << endl;
-    // Test Case 4: Two parks have two intersection points
-    x1 = 3; y1 = 3; r1 = 6;
-    x2 = 6; y2 = 6; r2 = 3;
-
-  cout << NumIntersectPoints(x1, x2, y1, y2, r1, r2);
-  cout << endl;
-    // Test Case 5: Two parks have more than two intersection points
-    x1 = 2; y1 = 4; r1 = 6;
-    x2 = 6; y2 = 6; r2 = 3;
-
-  cout << NumIntersectPoints(x1, x2, y1, y2, r1, r2);
-  cout << endl;
-    // Test Case 6: One park completely overlaps the other
-    x1 = 2; y1 = 2; r1 = 4;
-    x2 = 2; y2 = 2; r2 = 3;
-
-  cout << NumIntersectPoints(x1, x2, y1, y2, r1, r2);
-  cout << endl;
   return 0;
 }
