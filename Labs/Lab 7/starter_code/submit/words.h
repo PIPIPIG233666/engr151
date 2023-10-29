@@ -40,13 +40,10 @@ void concatenate(char word1[], char word2[]) {
   int length1 = word_length(word1);
   int length2 = word_length(word2);
 
-  if (length1 + length2 <
-      YOUR_MAX_LENGTH) {  // Make sure there is enough space in word1.
-    for (int i = 0; i < length2; i++) {
-      word1[length1 + i] = word2[i];
-    }
-    word1[length1 + length2] = '\0';  // Null-terminate the concatenated string.
+  for (int i = 0; i < length2; i++) {
+    word1[length1 + i] = word2[i];
   }
+  word1[length1 + length2] = '\0';  // Null-terminate the concatenated string.
 }
 
 /***

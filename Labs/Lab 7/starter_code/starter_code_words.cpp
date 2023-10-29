@@ -13,7 +13,7 @@ int main() {
       //test your code here
    ***/
   // cout << word_length(word1) << word_length(word2) << word_length(word3)
-       // << word_length(word4) << word_length(word5);
+  // << word_length(word4) << word_length(word5);
   concatenate(test1, test2);
   // int num_upper = 0, num_lower = 0;
   // char wordtest[] = "HelLoIsTheReAnyBodYInThere";
