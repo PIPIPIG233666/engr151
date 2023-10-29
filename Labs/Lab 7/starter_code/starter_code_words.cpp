@@ -14,8 +14,8 @@ int main() {
        << word_length(word4) << word_length(word5);
   concatenate(word1, word2);
   int num_upper = 0, num_lower = 0;
-
-  check_case(word3, num_upper, num_lower);
+  char wordtest[] = "HelLoIsTheReAnyBodYInThere";
+  check_case(wordtest, num_upper, num_lower);
   cout << endl << word3 << endl << num_upper << endl << num_lower;
   return 0;
 }

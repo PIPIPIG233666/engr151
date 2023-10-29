@@ -38,7 +38,7 @@ Can you also concatenate your lab section number onto this?
  ***/
 
 void concatenate(char word1[], char word2[]) {
-  char tmp[word_length(word1)];
+  char tmp[word_length(word1)+word_length(word2)];
   for (int i = 0; i < word_length(word1); i++) {
     tmp[i] = word1[i];
     for (int j = word_length(word1);
@@ -46,7 +46,7 @@ void concatenate(char word1[], char word2[]) {
       tmp[j] = word2[j - word_length(word1)];
     }
   }
-  cout << tmp;
+  word1 = tmp;
 }
 
 /***
@@ -59,8 +59,9 @@ TEST CASE EXAMPLE:
 HeLLoWoRLD has 7 upper case and 3 lower case characters. 
  ***/
 void check_case(char word[], int& num_upper, int& num_lower) {
+  num_upper = 0, num_lower = 0;
   for (int i = 0; i < word_length(word); i++) {
-    if (int(word[i] > int('A') && int(word[i] < 'Z'))) {
+    if (int(word[i] >= int('A') && int(word[i] <= 'Z'))) {
       num_upper++;
       word[i] = (char)(int(word[i]) + 32);
     } else {
