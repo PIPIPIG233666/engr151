@@ -8,6 +8,7 @@ const int N = 21;
 
 
 /*DECLARE YOUR PRINT FUNCTION HERE*/
+void print_array(char arr[M][N]);
 
 
 int main() {
@@ -32,6 +33,7 @@ int main() {
 	}
 		
 	/*CALL YOUR PRINT FUNCTION HERE*/
+  print_array(arr);
 
 
 
@@ -41,6 +43,15 @@ int main() {
 
 
 /*DEFINE YOUR PRINT FUNCTION HERE*/
+void print_array(char arr[M][N]) {
+for (int i = 0; i <M; i++){
+for (int j = 0;j<N;j++){
+cout << arr[i][j]<< ' ';
+}
+      cout << endl;
+}
+}
+
 
 
 
