@@ -16,12 +16,11 @@ ILoveToCode has a word length of 11.
 
  ***/
 int word_length(char word[]) {
-  int idx = 0, cnt = 0;
+  int idx = 0;
   while (word[idx] != '\0') {
-    cnt++;
     idx++;
   }
-  return cnt;
+  return idx;
 }
 
 /***
@@ -38,15 +37,16 @@ Can you also concatenate your lab section number onto this?
  ***/
 
 void concatenate(char word1[], char word2[]) {
-  char tmp[word_length(word1)+word_length(word2)];
-  for (int i = 0; i < word_length(word1); i++) {
-    tmp[i] = word1[i];
-    for (int j = word_length(word1);
-         j < word_length(word1) + word_length(word2); j++) {
-      tmp[j] = word2[j - word_length(word1)];
+  int length1 = word_length(word1);
+  int length2 = word_length(word2);
+
+  if (length1 + length2 <
+      YOUR_MAX_LENGTH) {  // Make sure there is enough space in word1.
+    for (int i = 0; i < length2; i++) {
+      word1[length1 + i] = word2[i];
     }
+    word1[length1 + length2] = '\0';  // Null-terminate the concatenated string.
   }
-  word1 = tmp;
 }
 
 /***
