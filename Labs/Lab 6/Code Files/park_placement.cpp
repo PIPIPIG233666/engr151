@@ -13,35 +13,35 @@ using namespace std;
 
 int NumIntersectPoints(int x1, int x2, int y1, int y2, int r1, int r2) {
   /*implement the function here*/
-    int ret = 0;
-    double dis = 0, rSum = 0, rDif = 0;
-    rSum = abs(r1 + r2);
-    rDif = abs(r1-r2);
-    dis = sqrt(pow((x1 - x2), 2) + pow((y1 - y2), 2));
-    // cocentric
-    // 1. is at inf
-    // 2. no is
-    // non cocentric
-    // 3. is at 2
-    // 4. is at 1
-    // 5. no is
-    // 6. no is
-    bool concentric = dis == 0;
-    //cout << "conce:" << concentric<< "  rsum:" << rSum<<"  dis:" << dis<<"  rdiff:" << rDif <<"   ";
-    if (concentric) {
-      if (rDif == 0)
-        ret = -1;
-      else
-        ret = 0;
-    } else {
-      if ((dis < rSum) && (dis>rDif))
-        ret = 2;
-      else if ((dis == rSum) || (dis == rDif))
-        ret = 1;
-      else
-        ret = 0;
-    }
-    return ret;
+  int ret = 0;
+  double dis = 0, rSum = 0, rDif = 0;
+  rSum = abs(r1 + r2);
+  rDif = abs(r1 - r2);
+  dis = sqrt(pow((x1 - x2), 2) + pow((y1 - y2), 2));
+  // cocentric
+  // 1. is at inf
+  // 2. no is
+  // non cocentric
+  // 3. is at 2
+  // 4. is at 1
+  // 5. no is
+  // 6. no is
+  bool concentric = dis == 0;
+  //cout << "conce:" << concentric<< "  rsum:" << rSum<<"  dis:" << dis<<"  rdiff:" << rDif <<"   ";
+  if (concentric) {
+    if (rDif == 0)
+      ret = -1;
+    else
+      ret = 0;
+  } else {
+    if ((dis < rSum) && (dis > rDif))
+      ret = 2;
+    else if ((dis == rSum) || (dis == rDif))
+      ret = 1;
+    else
+      ret = 0;
+  }
+  return ret;
 }
 int main() {
   // write your test cases here:

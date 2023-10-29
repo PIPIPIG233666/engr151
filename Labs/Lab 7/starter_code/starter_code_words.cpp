@@ -1,5 +1,5 @@
-#include <iostream>
 #include "starter_code_words.h"
+#include <iostream>
 
 int main() {
   char word1[10] = "ENGR";
