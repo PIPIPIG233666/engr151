@@ -1,0 +1,25 @@
+There are 29 empty parking spaces in the lot
+There are 7 cars parked illegally:
+	DBE7845
+	GBB0487
+	JJI7226
+	CIB5290
+	SUY6412
+	HII1207
+	QYO6289
+There are 15 cars with expired time:
+	RXS1293
+	CBY1063
+	OQH1492
+	UEW9266
+	AFA9390
+	SOF0963
+	FGD0925
+	GDE8936
+	SBO4062
+	YXL0758
+	TUK8042
+	YUL2888
+	GIO2479
+	CHZ5978
+	VWC8081
