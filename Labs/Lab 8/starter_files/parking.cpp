@@ -94,16 +94,11 @@ void print_info(int free_spaces, vector<string> illegal,
   output << "There are " << free_spaces << " empty parking spaces in the lot\n";
   output << "There are " << illegal.size() << " cars parked illegally:\n";
 
-  cout << "There are " << free_spaces << " empty parking spaces in the lot\n";
-  cout << "There are " << illegal.size() << " cars parked illegally:\n";
   for (int i = 0; i < (int)illegal.size(); i++) {
-    cout << '\t' << illegal.at(i) << '\n';
     output << '\t' << illegal.at(i) << '\n';
   }
-  cout << "There are " << expired.size() << " cars with expired time:\n";
   output << "There are " << expired.size() << " cars with expired time:\n";
   for (int i = 0; i < (int)expired.size(); i++) {
-    cout << '\t' << expired.at(i) << '\n';
     output << '\t' << expired.at(i) << '\n';
   }
   return;
