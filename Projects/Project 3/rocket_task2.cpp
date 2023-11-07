@@ -8,8 +8,8 @@ int main() {
   cout.precision(3);
   ifstream inF("init.txt");
   const double dt = 0.001, r_Earth = 6356;
-  int T, v_e;
-  double M_fuel, M_n, M_total, v_n = 0, M_payload, g_n, h_n = 0, v_esc;
+  int T;
+  double M_fuel, M_n, M_total, v_n = 0, M_payload, g_n, h_n = 0, v_esc, v_e;
   vector<double> lineVec;
   string line;
   while (getline(inF, line)) {
