@@ -3,9 +3,9 @@
 #include <cmath>
 
 int main() {
-    double T, ve, Mtotal, Mpayload;
+    double T, v_e, Mtotal, Mpayload;
     std::ifstream infile("init.txt");
-    infile >> T >> ve >> Mtotal >> Mpayload;
+    infile >> T >> v_e >> Mtotal >> Mpayload;
 
     double v = 0;
     double M = Mtotal;
@@ -13,7 +13,7 @@ int main() {
 
     while (M > Mpayload) {
         v += T / M * delta_t;
-        M -= T * delta_t / ve;
+        M -= T * delta_t / v_e;
     }
 
     std::cout.precision(3);
