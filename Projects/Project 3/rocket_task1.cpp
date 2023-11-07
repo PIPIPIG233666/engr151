@@ -9,7 +9,7 @@ int main() {
   ifstream inF("init.txt");
   const double dt = 0.001;
   int T, ve;
-  double M_fuel, M_n, M_total, vn = 0, M_payload;
+  double M_fuel, M_n, M_total, v_n = 0, M_payload;
   vector<double> lineVec;
   string line;
   while (getline(inF, line)) {
@@ -27,9 +27,9 @@ int main() {
   while (M_fuel > 0) {
     M_fuel = M_n - M_payload;
     M_n -= (T * dt) / ve;
-    vn += (T / M_n) * dt;
+    v_n += (T / M_n) * dt;
   }
-  cout << vn;
+  cout << v_n;
   return 0;
 }
 
