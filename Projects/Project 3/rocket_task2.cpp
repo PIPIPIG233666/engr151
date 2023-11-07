@@ -50,6 +50,7 @@ int main() {
       // testing output
       // cout << "v_n is: " << v_n << "\th_n is: " << h_n << "\tg_n is: " << g_n << "\tv_esc is: " << v_esc << endl;
     }
+    cout << h_n;
     // cout << "Test " << (i / 4) + 1 << ": " << h_n << endl;
   }
   return 0;
