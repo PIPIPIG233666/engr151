@@ -50,4 +50,3 @@ int main() {
   cout << getV_n();
   return 0;
 }
-

@@ -4,9 +4,15 @@
 #include <vector>
 using namespace std;
 
-int main() {
-  cout.precision(3);
+/*
+ * calculates the h at n (final)
+ * returns double
+ */
+double getH_n();
+
+double getH_n() {
   ifstream inF("init.txt");
+  // more constats
   const double dt = 0.001, r_Earth = 6356, C_D = 0.500,
                A = 3.1415 * pow(6.6e-3 / 2, 2);
   int T;
@@ -15,20 +21,26 @@ int main() {
   vector<double> lineVec;
   string line;
   while (getline(inF, line)) {
+    // append the lines to a vector
     lineVec.push_back(stod(line));
   }
+  // close the input file
   inF.close();
 
   for (int i = 0; i < (int)lineVec.size(); i += 4) {
+    // assign the vectors to corresponding variables if the init.txt has multiple inputs
     T = lineVec[i];
     v_e = lineVec[i + 1];
     M_total = lineVec[i + 2];
     M_payload = lineVec[i + 3];
 
+    // mass starts with fuel + rocket
     M_n = M_total;
+    // mass decreases by payload
     M_fuel = M_n - M_payload;
     roh_n = 1.225e6 * exp(-h_n / 9);
     bool exceed;
+    // keep the loop running until the velocity is no longer positive
     while (v_n >= 0) {
       M_fuel = M_n - M_payload;
       M_n -= (T * dt) / v_e;
@@ -39,11 +51,13 @@ int main() {
         T = 0;
 
       exceed = v_esc <= v_n;
+      // return 1 early if exceeds
       if (exceed) {
         cout << "Escape velocity reached";
         return 1;
       }
 
+      // formulas from the spec
       h_n += v_n * dt;
       g_n = 3.962e5 / pow(h_n + r_Earth, 2);  // Recalculate g_n
       roh_n = 1.225e6 * exp(-h_n / 9);
@@ -54,9 +68,13 @@ int main() {
       // testing output
       // cout << "v_n is: " << v_n << "\th_n is: " << h_n << "\tg_n is: " << g_n << "\tv_esc is: " << v_esc << endl;
     }
-    cout << h_n;
     // cout << "Test " << (i / 4) + 1 << ": " << h_n << endl;
   }
-  return 0;
+  return h_n;
 }
 
+int main() {
+  cout.precision(3);
+  cout << getH_n();
+  return 0;
+}
