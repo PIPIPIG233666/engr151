@@ -31,7 +31,7 @@ double getV_n() {
   M_total = lineVec[2];
   M_payload = lineVec[3];
 
-  // mass starts with fuel + rocket
+  // mass starts with fuel 
   M_n = M_total;
   // mass decreases by payload
   M_fuel = M_n - M_payload;

@@ -29,7 +29,7 @@ int main() {
     M_total = lineVec[i + 2];
     M_payload = lineVec[i + 3];
 
-    // mass starts with fuel + rocket
+    // mass starts with fuel 
     M_n = M_total;
     // mass decreases by payload
     M_fuel = M_n - M_payload;
