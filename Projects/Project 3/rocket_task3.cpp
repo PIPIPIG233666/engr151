@@ -65,7 +65,7 @@ double getH_n() {
       // testing output
       // cout << "v_n is: " << v_n << "\th_n is: " << h_n << "\tg_n is: " << g_n << "\tv_esc is: " << v_esc << endl;
     }
-    cout << "Test " << (i / 4) + 1 << ": " << h_n << endl;
+    // cout << "Test " << (i / 4) + 1 << ": " << h_n << endl;
   }
   // return 1 early if exceeds
   if (exceed) {
@@ -79,5 +79,7 @@ double getH_n() {
 int main() {
   cout.precision(3);
   cout << getH_n();
+  if (getH_n() == 1)
+    return 1;
   return 0;
 }

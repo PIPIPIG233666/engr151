@@ -76,7 +76,7 @@ int main() {
   cout.precision(3);
   double testFuel = 2000;
   while (getH_n(testFuel) != 2005 || getH_n(testFuel) != 1995) {
-    if (getH_N(testFuel)<2000){
+    if (getH_N(testFuel) < 2000) {
       cout << ""
     }
   }
