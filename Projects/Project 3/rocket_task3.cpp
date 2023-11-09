@@ -26,7 +26,6 @@ double getH_n(double T, double v_e, double M_total, double M_payload) {
     // return early if escape velocity is exceeded
     exceed = v_esc < v_n;
     if (exceed) {
-      cout << "Escape velocity reached";
       return 1;
     }
 
@@ -60,7 +59,12 @@ int main() {
   // }
   int i = 0;
   double o = getH_n(lineVec[i], lineVec[i + 1], lineVec[i + 2], lineVec[i + 3]);
-  cout << o;
+  if (o == 1) {
+    cout << "Escape velocity reached";
+    return 1;
+  } else {
+    cout << o;
+  }
 
   return 0;
 }
