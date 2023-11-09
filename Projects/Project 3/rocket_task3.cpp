@@ -11,8 +11,8 @@ int main() {
   const double dt = 0.001, r_Earth = 6356, C_D = 0.500,
                A = 3.1415 * pow(6.6e-3 / 2, 2);
   int T;
-  double M_fuel, M_n, M_total, v_n = 0, M_payload, g_n, h_n = 0, v_esc, v_e,
-                               roh_n;
+  double M_fuel = 0, M_n=0, M_total=0, v_n = 0, M_payload=0, g_n=0, h_n = 0, v_esc=0, v_e=0,
+                               roh_n=0;
   vector<double> lineVec;
   string line;
   while (getline(inF, line)) {
@@ -45,7 +45,7 @@ int main() {
         T = 0;
 
       // return early if escape velocity is exceeded
-      exceed = v_esc <= v_n;
+      exceed = v_esc < v_n;
       if (exceed) {
         cout << "Escape velocity reached";
         return 1;
