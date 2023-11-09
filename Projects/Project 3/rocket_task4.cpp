@@ -69,7 +69,6 @@ int main() {
   }
   if (h == 1) {
     cout << "Escape velocity reached";
-    return 1;
   }
   while (abs(h - h_tar) > 5) {
     if (h > h_tar)
@@ -81,7 +80,7 @@ int main() {
     h = getH_n(lineVec[i], lineVec[i + 1], M_fuel, lineVec[i + 2]);
     // cout << h<<endl;
   }
-  cout << M_fuel << endl;
+  cout << M_fuel;
 
   return 0;
 }
