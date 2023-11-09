@@ -59,7 +59,7 @@ int main() {
   // }
   int i = 0;
   const double h_tar = 2000;
-  double M_fuel_max = 35 / 0.00981, M_fuel_min = 0,
+  double M_fuel_max = lineVec[i] / 0.00981, M_fuel_min = 0,
          M_fuel = .5 * (M_fuel_min + M_fuel_max), low = M_fuel_min,
          high = M_fuel_max;
   double h = getH_n(lineVec[i], lineVec[i + 1], M_fuel, lineVec[i + 2]);
