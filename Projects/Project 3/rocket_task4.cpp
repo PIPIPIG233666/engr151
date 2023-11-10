@@ -62,6 +62,7 @@ int main() {
   double M_fuel_max = lineVec[i] / 0.00981, M_fuel_min = 0, M_fuel = M_fuel_max,
          low = M_fuel_min, high = M_fuel_max;
   double h = getH_n(lineVec[i], lineVec[i + 1], M_fuel, lineVec[i + 2]);
+  // does not reach target height = too heavy
   if (h < h_tar) {
     cout << "Rocket too heavy";
     return 1;
@@ -70,16 +71,20 @@ int main() {
     cout << "Escape velocity reached";
   }
   while (abs(h - h_tar) > 5) {
+    // use binary search to find the optimum
     if (h > h_tar)
-      high = M_fuel;
+      high = M_fuel;  // if its overshooting, pick a lower max
     else
-      low = M_fuel;
+      low = M_fuel;  // otherwise, do the opposite
 
+    // take the middle
     M_fuel = .5 * (high + low);
 
+    // update the height based on the new fuel
     h = getH_n(lineVec[i], lineVec[i + 1], M_fuel, lineVec[i + 2]);
   }
-  cout << M_fuel - lineVec[i+2];
+  // get rid of the extra payload
+  cout << M_fuel - lineVec[i + 2];
 
   return 0;
 }
