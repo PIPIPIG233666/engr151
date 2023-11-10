@@ -1,0 +1,21 @@
+Northwood	14	CCTC	Rackham	Mitchell	Pierpont	NW3	NW1	NW2	NW4	NW5	FXB	Cooley	Mitchell	Lloyd	Stockwell					
+Commuter	19	Crisler	IM	Union	CCTC	Couzens	Markley	Mitchell	Pierpont	FXB	Hayward	NC51	VA	Cooley	Pierpont	Mitchell	Rackham	CCTC	Ugli	Squad
+D2D	13	Trotter	CCTC	Rackham	Mitchell	Ford	Cooley	Pierpont	Mitchell	Rackham	CCTC	East	Henderson	Oxford						
+Oxford	7	East	Henderson	Oxford	Trotter	Ugli	Union	CCTC												
+D2D	13	Rackham	Mitchell	Ford	Cooley	Pierpont	Mitchell	Rackham	CCTC	East	Henderson	Oxford	Trotter	CCTC						
+Bursley	9	Rackham	CCTC	Mitchell	Pierpont	Bursley	Baits	Bursley	Pierpont	Mitchell										
+Oxford	7	CCTC	East	Henderson	Oxford	Trotter	Ugli	Union												
+Commuter	19	FXB	Hayward	NC51	VA	Cooley	Pierpont	Mitchell	Rackham	CCTC	Ugli	Squad	Crisler	IM	Union	CCTC	Couzens	Markley	Mitchell	Pierpont
+Oxford	7	Ugli	Union	CCTC	East	Henderson	Oxford	Trotter												
+Commuter	19	Union	CCTC	Couzens	Markley	Mitchell	Pierpont	FXB	Hayward	NC51	VA	Cooley	Pierpont	Mitchell	Rackham	CCTC	Ugli	Squad	Crisler	IM
+Commuter	19	Squad	Crisler	IM	Union	CCTC	Couzens	Markley	Mitchell	Pierpont	FXB	Hayward	NC51	VA	Cooley	Pierpont	Mitchell	Rackham	CCTC	Ugli
+Commuter	19	Hayward	NC51	VA	Cooley	Pierpont	Mitchell	Rackham	CCTC	Ugli	Squad	Crisler	IM	Union	CCTC	Couzens	Markley	Mitchell	Pierpont	FXB
+D2D	13	Pierpont	Mitchell	Rackham	CCTC	East	Henderson	Oxford	Trotter	CCTC	Rackham	Mitchell	Ford	Cooley						
+Northwood	14	Pierpont	NW3	NW1	NW2	NW4	NW5	FXB	Cooley	Mitchell	Lloyd	Stockwell	CCTC	Rackham	Mitchell					
+Oxford	7	East	Henderson	Oxford	Trotter	Ugli	Union	CCTC												
+Oxford	7	Henderson	Oxford	Trotter	Ugli	Union	CCTC	East												
+Bursley	9	Rackham	CCTC	Mitchell	Pierpont	Bursley	Baits	Bursley	Pierpont	Mitchell										
+D2D	13	Pierpont	Mitchell	Rackham	CCTC	East	Henderson	Oxford	Trotter	CCTC	Rackham	Mitchell	Ford	Cooley						
+Oxford	7	Henderson	Oxford	Trotter	Ugli	Union	CCTC	East												
+Oxford	7	Union	CCTC	East	Henderson	Oxford	Trotter	Ugli												
+D2D	13	Ford	Cooley	Pierpont	Mitchell	Rackham	CCTC	East	Henderson	Oxford	Trotter	CCTC	Rackham	Mitchell						

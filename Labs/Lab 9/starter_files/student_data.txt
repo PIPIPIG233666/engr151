@@ -1,0 +1,1002 @@
+Athena	Lueilwitz	18	Fir	2	ENGR	110	CHEM	125		
+Juwan	Skiles	19	Maple	2	CHEM	125	PHYSICS	240		
+Bryana	Crooks	23	Aspen	2	ENGR	100	ENGR	110		
+Laura	Langosh	20	Maple	3	EECS	281	EECS	280	MATH	116
+Bernhard	Metz	16	Ash	1	EECS 	203				
+Brandi	Doyle	21	Maple	3	PHYSICS	240	ENGR	151	EECS	215
+Lolita	Yost	25	Cherry	3	PHYSICS	141	EECS	281	IOE	265
+Eloise	Glover	20	Spruce	1	PHYSICS	241				
+Priscilla	Grant	25	Spruce	3	PHYSICS	241	EECS	280	PHYSICS	240
+Prudence	Baumbach	19	Aspen	3	ENGR	101	IOE	310	MATH	115
+Omer	Murazik	24	Cherry	2	MECHENG	240	PHYSICS	140		
+Madaline	Howell	18	Beech	3	EECS	280	PHYSICS	140	PHYSICS	241
+Taurean	Kovacek	25	Birch	1	PHYSICS	141				
+Zechariah	Lindgren	24	Elm	1	ENGR	101				
+Cruz	Kunde	24	Aspen	1	PHYSICS	241				
+Marguerite	Smitham	21	Hemlock	2	EECS	215	MATH	115		
+Ferne	Hermann	19	Hickory	2	MATH	115	MECHENG	250		
+Chandler	Skiles	24	Birch	3	PHYSICS	141	MATH	116	MATH	115
+Adolf	Crist	19	Spruce	1	EECS	215				
+Haven	Corkery	23	Birch	2	MATH	215	IOE	265		
+Kristy	Boehm	24	Pine	1	PHYSICS	240				
+Preston	Schiller	25	Fir	1	IOE	310				
+Britney	Swift	16	Pine	2	EECS 	203	ENGR	110		
+Taylor	Hettinger	17	Hawthorn	1	MECHENG	250				
+Ella	Harris	20	Hickory	2	ENGR	110	PHYSICS	240		
+Kian	Turcotte	16	Cherry	2	MATH	116	ENGR	101		
+Maci	McLaughlin	17	Hawthorn	3	IOE	265	EECS	215	PHYSICS	241
+Winona	Hartmann	22	Sycamore	3	PHYSICS	141	MATH	116	ENGR	151
+Vida	Bartoletti	21	Pine	3	MATH	116	CHEM	125	MECHENG	240
+Lew	Labadie	24	Fir	2	EECS	281	MATH	216		
+Harry	Rosenbaum	20	Birch	1	EECS	215				
+Marielle	Wintheiser	24	Fir	3	PHYSICS	241	EECS	280	ENGR	101
+June	Anderson	21	Willow	3	PHYSICS	240	IOE	265	ENGR	100
+Casimir	Stanton	25	Birch	1	EECS	215				
+Clifford	Bahringer	20	Birch	2	PHYSICS	240	MECHENG	240		
+Ethelyn	Kunde	18	Birch	1	EECS	280				
+Payton	Mraz	25	Willow	2	IOE	265	CHEM	125		
+Jacquelyn	Legros	22	Pine	2	MATH	115	ENGR	100		
+Jeanette	Greenfelder	21	Sycamore	1	EECS	280				
+Saul	Walsh	23	Hickory	3	PHYSICS	241	MECHENG	250	PHYSICS	140
+Jason	Heaney	18	Cherry	2	PHYSICS	140	MATH	215		
+Leon	Stroman	24	Ash	2	MECHENG	240	EECS	281		
+Max	Cummerata	24	Cherry	1	EECS	281				
+Jedediah	Kshlerin	23	Spruce	1	MATH	214				
+Elliot	Frami	25	Aspen	2	ENGR	100	ENGR	151		
+Makayla	Ryan	17	Birch	2	PHYSICS	140	MECHENG	240		
+Calista	Beahan	17	Fir	1	EECS	215				
+Brady	Cole	22	Aspen	2	MATH	215	ENGR	100		
+Cyrus	Thompson	25	Willow	3	ENGR	110	PHYSICS	141	IOE	265
+Gerhard	Heller	24	Spruce	2	EECS	280	MATH	216		
+Vernie	Lubowitz	17	Ash	3	PHYSICS	140	EECS	215	PHYSICS	141
+Ruben	Schowalter	19	Elm	1	MATH	215				
+Rachelle	Casper	24	Birch	3	MATH	216	PHYSICS	140	ENGR	100
+Sarah	O'Kon	21	Cherry	3	EECS 	203	EECS	215	ENGR	101
+Keenan	Kerluke	17	Ash	1	CHEM	125				
+Alison	Frami	25	Birch	1	CHEM	125				
+Haven	Schulist	20	Willow	1	ENGR	110				
+Myrtice	Runolfsdottir	22	Hickory	2	IOE	265	IOE	310		
+Miguel	Carroll	20	Hickory	1	PHYSICS	241				
+Dashawn	Bashirian	24	Sycamore	2	PHYSICS	141	EECS	215		
+Celestino	Rolfson	16	Hickory	2	MECHENG	250	EECS	280		
+Hector	Ernser	20	Birch	2	EECS	281	EECS	280		
+Iva	Hagenes	17	Willow	1	MATH	216				
+Waino	Halvorson	20	Sycamore	3	EECS	281	MATH	214	EECS	215
+Trisha	Goodwin	21	Ash	2	PHYSICS	241	PHYSICS	140		
+Jesse	Terry	17	Spruce	2	ENGR	110	MATH	115		
+Florencio	Swift	16	Pine	3	IOE	310	PHYSICS	240	PHYSICS	240
+Pascale	Konopelski	18	Spruce	1	IOE	310				
+Owen	Bogisich	19	Birch	2	MATH	115	ENGR	151		
+Ismael	Flatley	18	Birch	2	CHEM	125	MATH	116		
+Sister	O'Hara	18	Elm	3	MATH	116	MATH	215	MATH	215
+Tyrese	Lakin	19	Cherry	2	CHEM	125	MATH	214		
+Nicola	Johnson	19	Hawthorn	2	PHYSICS	240	PHYSICS	240		
+Shayna	Feil	17	Ash	2	MECHENG	240	CHEM	125		
+Collin	Cruickshank	24	Hawthorn	2	MATH	116	EECS	281		
+Vivienne	Hegmann	19	Willow	1	PHYSICS	140				
+Lester	Rutherford	25	Pine	2	EECS 	203	ENGR	100		
+Reagan	Corkery	18	Hickory	1	ENGR	151				
+Donavon	Nienow	21	Sycamore	1	MATH	116				
+Ezekiel	Treutel	19	Maple	1	IOE	265				
+Virginie	Hahn	16	Aspen	3	EECS	281	MATH	116	ENGR	151
+Arely	Senger	19	Aspen	2	MECHENG	240	MECHENG	250		
+Reyna	Block	25	Aspen	1	MECHENG	240				
+Birdie	Abernathy	20	Ash	1	IOE	265				
+Christelle	Lueilwitz	19	Willow	3	EECS	280	PHYSICS	141	EECS 	203
+Deven	Russel	24	Ash	2	MECHENG	250	EECS	215		
+Tavares	Rohan	23	Aspen	3	CHEM	125	ENGR	151	MATH	116
+Van	Flatley	25	Beech	3	ENGR	110	MATH	215	PHYSICS	141
+Alexandrea	Morissette	23	Sycamore	3	MECHENG	240	EECS 	203	MECHENG	250
+Rogelio	Hermiston	21	Sycamore	3	PHYSICS	141	CHEM	125	MATH	216
+Kylee	Crist	18	Aspen	2	PHYSICS	140	PHYSICS	140		
+Fannie	Kuvalis	19	Willow	3	EECS 	203	ENGR	101	ENGR	101
+Clinton	Trantow	22	Cherry	3	CHEM	125	MECHENG	240	EECS	281
+Emmanuelle	Herzog	22	Fir	3	MATH	215	MATH	116	MECHENG	250
+Christophe	Adams	22	Hawthorn	3	ENGR	100	EECS 	203	EECS	281
+Tanner	Kunze	24	Cherry	3	ENGR	100	ENGR	151	PHYSICS	240
+Katrina	Sauer	17	Willow	2	ENGR	151	MECHENG	250		
+Frances	Witting	22	Birch	1	EECS	281				
+Kellie	Kuhlman	18	Cherry	3	MECHENG	240	EECS	281	EECS 	203
+Maynard	Orn	16	Maple	2	ENGR	100	MECHENG	240		
+Hortense	Padberg	19	Maple	1	EECS	281				
+Mavis	Larson	17	Maple	2	EECS	281	PHYSICS	140		
+Kendall	Hermann	22	Willow	1	IOE	265				
+Ricky	Ledner	17	Elm	3	PHYSICS	140	PHYSICS	141	IOE	265
+Rubie	Wehner	21	Fir	1	MATH	116				
+Ricardo	Lockman	18	Willow	2	ENGR	110	ENGR	101		
+Amy	Treutel	22	Pine	2	PHYSICS	140	MATH	115		
+Jakayla	Robel	18	Sycamore	1	EECS	215				
+Eleonore	Ziemann	24	Hemlock	1	EECS	281				
+Daisy	Mitchell	25	Ash	3	IOE	310	ENGR	151	ENGR	151
+Julianne	Breitenberg	16	Elm	2	PHYSICS	240	ENGR	100		
+Randal	Wiegand	23	Beech	1	MECHENG	240				
+Marcelino	Fahey	25	Willow	2	ENGR	101	PHYSICS	140		
+Annette	Bahringer	19	Fir	1	PHYSICS	240				
+Cornell	Botsford	21	Birch	2	EECS	215	MECHENG	250		
+Verlie	Hodkiewicz	24	Aspen	3	IOE	310	EECS	281	IOE	310
+Lacy	Mraz	20	Sycamore	1	ENGR	101				
+Green	Considine	18	Pine	1	EECS	280				
+Romaine	Schmitt	25	Pine	3	PHYSICS	240	PHYSICS	240	CHEM	125
+Eldora	Pagac	18	Willow	2	MATH	216	ENGR	151		
+Addison	Mann	16	Cherry	1	EECS	215				
+Kip	Friesen	18	Aspen	3	CHEM	125	MATH	214	MECHENG	250
+Angeline	Bogisich	20	Willow	3	MATH	115	EECS 	203	ENGR	101
+Joshua	Smitham	21	Ash	3	ENGR	151	IOE	310	MATH	216
+Juliet	Kuphal	22	Maple	3	EECS	281	IOE	310	MECHENG	240
+
+Israel	Abernathy	16	Sycamore	1	IOE	265				
+Reina	Wolf	17	Ash	2	MATH	116	MATH	214		
+Araceli	Oberbrunner	23	Sycamore	2	EECS	281	EECS	281		
+Janet	McDermott	16	Spruce	2	EECS	215	PHYSICS	140		
+Candace	Halvorson	23	Hickory	3	ENGR	110	IOE	265	CHEM	125
+Colt	Terry	25	Beech	1	ENGR	151				
+Loy	Mohr	23	Fir	1	EECS 	203				
+Anderson	Howell	25	Aspen	3	EECS 	203	ENGR	151	EECS	280
+Maybelle	Keebler	18	Maple	1	MECHENG	250				
+Lisette	Orn	18	Beech	3	MATH	215	MECHENG	250	MATH	216
+Dora	Roberts	21	Hawthorn	3	EECS 	203	IOE	265	MATH	214
+Freeda	Carroll	17	Ash	2	EECS	281	PHYSICS	141		
+Keanu	Durgan	18	Maple	1	ENGR	100				
+Duncan	Kshlerin	20	Fir	1	MATH	216				
+Marlin	Johns	23	Elm	1	MATH	214				
+Bill	Bernier	16	Sycamore	3	MECHENG	250	IOE	310	EECS	281
+Vladimir	Kertzmann	24	Ash	3	EECS	215	MATH	116	IOE	310
+Pedro	Armstrong	25	Ash	1	EECS	215				
+Kale	Ankunding	21	Hickory	2	PHYSICS	240	EECS	215		
+Erwin	Lueilwitz	25	Cherry	1	ENGR	100				
+Lexi	Streich	22	Hemlock	3	MATH	214	IOE	265	ENGR	100
+Rodolfo	Buckridge	23	Sycamore	1	MATH	215				
+Amalia	Corkery	24	Birch	1	CHEM	125				
+Richmond	Weissnat	22	Fir	1	MECHENG	240				
+Timmothy	Pagac	23	Maple	2	MATH	215	CHEM	125		
+Kasey	Pouros	24	Willow	1	EECS	281				
+Dejah	Fadel	23	Hickory	2	ENGR	100	MECHENG	240		
+Genevieve	Feeney	21	Elm	1	MATH	216				
+Bailey	Williamson	24	Sycamore	3	ENGR	151	EECS 	203	ENGR	110
+Brando	Franecki	22	Aspen	2	EECS	215	EECS	280		
+Matteo	Murazik	22	Beech	1	CHEM	125				
+Olen	Walker	22	Willow	1	IOE	265				
+Beatrice	Predovic	23	Willow	2	MATH	216	MATH	115		
+Agustina	Keeling	16	Cherry	1	IOE	310				
+Lane	Veum	22	Pine	1	MATH	215				
+Buddy	Hoppe	22	Beech	1	EECS	281				
+Susie	Ortiz	25	Birch	2	ENGR	110	MATH	115		
+Adrian	Yundt	23	Willow	2	MATH	216	PHYSICS	140		
+Eunice	Hickle	20	Birch	1	MATH	116				
+Carolanne	Dooley	19	Spruce	1	PHYSICS	240				
+Carey	Hagenes	20	Maple	3	IOE	265	PHYSICS	241	MECHENG	240
+Mazie	Koss	25	Willow	2	PHYSICS	141	MATH	216		
+Pearlie	Mante	20	Aspen	2	CHEM	125	PHYSICS	141		
+Connor	Beatty	20	Pine	1	ENGR	110				
+Diego	Boehm	17	Sycamore	1	MATH	215				
+Verda	Christiansen	18	Sycamore	2	ENGR	100	MATH	216		
+Brady	Hills	24	Pine	2	EECS	215	CHEM	125		
+Janie	Corkery	19	Birch	1	ENGR	110				
+Esperanza	Adams	20	Sycamore	3	CHEM	125	MATH	116	IOE	310
+Leora	Ebert	21	Beech	2	IOE	310	PHYSICS	140		
+Courtney	Mayert	25	Beech	2	CHEM	125	PHYSICS	140		
+Romaine	Tremblay	22	Cherry	3	PHYSICS	241	CHEM	125	ENGR	110
+Armando	Carroll	22	Ash	2	EECS	215	IOE	310		
+Ressie	Willms	23	Willow	3	PHYSICS	141	IOE	310	MATH	214
+Lonie	Legros	21	Aspen	1	MATH	215				
+Bobbie	Ondricka	19	Pine	2	PHYSICS	140	MATH	116		
+Jackie	Wisoky	22	Fir	3	EECS	280	EECS	215	MECHENG	250
+Columbus	Bins	25	Aspen	2	MECHENG	250	MATH	214		
+Jeanette	Stroman	17	Fir	3	MECHENG	250	IOE	310	MATH	215
+Brycen	Blick	19	Elm	1	MECHENG	250				
+Joseph	White	25	Ash	3	IOE	265	MECHENG	240	MATH	116
+Nigel	Kuphal	22	Ash	2	MECHENG	250	PHYSICS	140		
+Delfina	Ondricka	22	Hemlock	1	IOE	265				
+Myron	Rippin	24	Cherry	2	PHYSICS	140	MATH	216		
+Giovanni	Trantow	22	Sycamore	3	IOE	310	PHYSICS	141	MECHENG	240
+Tatum	Quitzon	18	Hemlock	1	MATH	215				
+Richard	Abshire	24	Maple	3	ENGR	110	MATH	115	MATH	216
+Cassandra	Schmitt	24	Fir	3	IOE	310	PHYSICS	140	MATH	216
+Katlynn	Hudson	25	Beech	2	MATH	216	MATH	214		
+Arianna	Larkin	19	Willow	3	EECS	281	IOE	310	ENGR	151
+Harmon	Kemmer	25	Hemlock	1	MATH	215				
+Lilyan	Kohler	20	Hawthorn	3	ENGR	101	ENGR	110	PHYSICS	241
+Kathleen	Hintz	19	Hawthorn	2	PHYSICS	140	PHYSICS	141		
+Eleonore	Mosciski	19	Hickory	1	PHYSICS	140				
+Brant	Zulauf	20	Maple	2	CHEM	125	MECHENG	250		
+Aric	Cartwright	25	Cherry	2	MATH	214	PHYSICS	140		
+Stevie	Medhurst	25	Maple	2	EECS 	203	CHEM	125		
+Howard	Johnston	18	Spruce	3	EECS 	203	PHYSICS	241	ENGR	101
+Dimitri	Harris	22	Hemlock	2	MATH	216	PHYSICS	241		
+Russel	Cruickshank	20	Maple	1	PHYSICS	141				
+Haskell	Williamson	24	Hickory	2	MATH	115	ENGR	151		
+Cheyanne	Gleichner	22	Hawthorn	3	MECHENG	250	EECS	280	MATH	115
+Delpha	Raynor	23	Sycamore	2	MATH	116	MATH	216		
+Kendall	Bogan	24	Fir	2	EECS 	203	EECS	215		
+Darion	Gleichner	22	Maple	2	EECS	215	MATH	215		
+Ludie	Mertz	24	Maple	1	IOE	310				
+Daniella	Purdy	23	Birch	2	IOE	310	PHYSICS	141		
+Zoe	Balistreri	16	Aspen	3	PHYSICS	141	EECS	280	MECHENG	250
+Hadley	Anderson	24	Fir	1	IOE	310				
+Karelle	Mueller	23	Pine	3	EECS	280	MATH	216	EECS 	203
+Ellen	Zemlak	25	Hawthorn	2	MECHENG	250	EECS	281		
+Alfonso	Smith	25	Pine	1	MATH	216				
+Eldred	Schumm	24	Pine	3	EECS	280	EECS	280	MATH	214
+Eliseo	Crist	23	Aspen	3	PHYSICS	240	ENGR	151	MATH	115
+Tess	Predovic	21	Maple	3	MATH	115	MECHENG	240	ENGR	110
+Eveline	Hand	24	Elm	1	PHYSICS	241				
+Douglas	Heathcote	21	Pine	2	PHYSICS	140	EECS	280		
+Kenneth	Schuster	22	Fir	1	ENGR	151				
+Keon	Cormier	24	Spruce	3	MECHENG	250	EECS	280	MATH	214
+Dale	Sauer	23	Hawthorn	1	MATH	116				
+Mia	Legros	23	Willow	1	MATH	216				
+Mireille	Bruen	20	Hickory	2	ENGR	100	EECS 	203		
+Edwin	West	24	Sycamore	1	IOE	310				
+Brown	White	18	Hemlock	1	ENGR	151				
+Katheryn	Hegmann	20	Hemlock	2	ENGR	101	PHYSICS	141		
+Savion	Schulist	22	Cherry	2	IOE	265	MATH	115		
+Jeremy	Stokes	24	Cherry	2	PHYSICS	240	EECS 	203		
+Nico	Schmitt	17	Ash	2	MECHENG	250	ENGR	110		
+Jakob	Haley	25	Elm	3	PHYSICS	241	PHYSICS	240	MATH	115
+Ernestina	Pfeffer	17	Ash	1	PHYSICS	240				
+Estelle	Rogahn	19	Elm	3	CHEM	125	EECS	280	MATH	215
+Estella	Williamson	19	Fir	1	EECS 	203				
+Nya	Schowalter	23	Beech	2	IOE	310	ENGR	151		
+Miller	Morissette	25	Elm	3	ENGR	110	PHYSICS	140	MATH	214
+Moses	Kautzer	16	Willow	3	ENGR	151	ENGR	101	MATH	115
+Marquis	Johnson	21	Beech	1	IOE	310				
+Sasha	Hilll	16	Spruce	2	MATH	116	PHYSICS	141		
+Claude	Corkery	24	Fir	1	ENGR	100				
+Sasha	Lehner	24	Hickory	3	PHYSICS	141	PHYSICS	141	IOE	265
+Brendan	Medhurst	16	Sycamore	1	ENGR	101				
+Anjali	Cummerata	21	Hickory	1	ENGR	110				
+Bertrand	Lindgren	18	Hemlock	1	MATH	215				
+Kaya	Champlin	16	Aspen	1	ENGR	101				
+Vicente	Kuhlman	24	Hawthorn	1	CHEM	125				
+Fanny	Krajcik	24	Sycamore	3	MATH	214	ENGR	151	PHYSICS	141
+Ted	Goodwin	24	Fir	1	ENGR	110				
+Arnaldo	Nienow	18	Elm	2	EECS	280	PHYSICS	140		
+Rodrigo	Willms	24	Pine	3	EECS 	203	MATH	215	EECS	280
+Cora	Kilback	21	Pine	1	MATH	115				
+Kyra	Nolan	23	Hawthorn	1	PHYSICS	241				
+Maynard	Stanton	24	Hawthorn	3	PHYSICS	240	MECHENG	240	IOE	265
+Santina	Kilback	17	Cherry	1	IOE	265				
+Merritt	Hamill	24	Fir	1	ENGR	110				
+Joseph	Von	25	Elm	2	EECS 	203	PHYSICS	140		
+Tomas	Moen	20	Maple	1	EECS	280				
+Madonna	Ankunding	24	Cherry	1	ENGR	110				
+Marco	Romaguera	23	Aspen	3	MATH	216	EECS	215	ENGR	151
+Kylee	Langosh	24	Ash	2	IOE	310	ENGR	110		
+Jeffery	Mitchell	24	Aspen	3	MATH	216	MATH	215	MECHENG	240
+Effie	Hettinger	16	Birch	1	EECS	280				
+Rosalee	Kuhic	17	Pine	1	PHYSICS	140				
+Norval	Mueller	22	Sycamore	3	EECS	280	MECHENG	240	EECS	215
+Kiara	Stracke	20	Sycamore	3	ENGR	100	EECS 	203	IOE	265
+Tito	Streich	21	Sycamore	3	PHYSICS	140	EECS 	203	MECHENG	250
+Marshall	Sporer	17	Willow	3	MATH	116	IOE	265	ENGR	101
+Annetta	Ward	21	Cherry	3	ENGR	151	ENGR	110	PHYSICS	141
+Anderson	Ryan	22	Pine	1	EECS 	203				
+Dylan	King	17	Spruce	1	MATH	214				
+Hermann	Crist	22	Hawthorn	3	PHYSICS	241	ENGR	100	ENGR	151
+Lourdes	Metz	23	Ash	2	ENGR	151	ENGR	101		
+Letitia	Johnson	20	Beech	2	MATH	116	PHYSICS	240		
+Roosevelt	Lueilwitz	16	Beech	1	IOE	310				
+Oswaldo	Lockman	16	Hemlock	2	EECS	281	PHYSICS	141		
+Raleigh	Parker	17	Elm	3	MATH	116	MATH	214	MECHENG	240
+Adah	Olson	23	Hickory	3	IOE	265	EECS 	203	PHYSICS	241
+Rhiannon	Powlowski	21	Beech	3	MATH	115	ENGR	101	EECS	280
+Jed	Beahan	20	Birch	2	CHEM	125	EECS	215		
+Bailey	Walker	17	Birch	3	ENGR	100	PHYSICS	140	EECS 	203
+Kristofer	Brekke	21	Hickory	1	EECS	280				
+Kaden	Boyle	23	Hawthorn	1	EECS	280				
+Robbie	Smitham	19	Pine	1	MATH	214				
+Jacynthe	Littel	24	Aspen	3	ENGR	151	PHYSICS	240	EECS	280
+Yvonne	Leannon	17	Birch	3	ENGR	100	PHYSICS	140	ENGR	151
+Ford	O'Reilly	21	Maple	3	MATH	216	EECS	281	MATH	215
+Earlene	Braun	25	Cherry	2	PHYSICS	140	EECS	215		
+Burdette	Bayer	16	Willow	1	MECHENG	240				
+Tamara	Leffler	25	Sycamore	1	CHEM	125				
+Krystel	Gutmann	20	Beech	3	ENGR	101	EECS 	203	EECS	215
+Ole	Hackett	21	Hawthorn	3	EECS	215	IOE	265	ENGR	151
+Hester	Torphy	19	Sycamore	1	ENGR	151				
+Evans	Bailey	21	Pine	3	EECS	280	PHYSICS	241	PHYSICS	140
+Jena	Koepp	18	Spruce	2	MATH	214	EECS	215		
+Devyn	Keeling	18	Elm	1	ENGR	151				
+Ward	O'Connell	23	Cherry	3	IOE	310	MATH	214	MATH	115
+Crystel	O'Kon	20	Maple	1	ENGR	110				
+Mercedes	Hagenes	23	Cherry	3	EECS	281	ENGR	151	MATH	216
+Kareem	Mills	24	Beech	1	ENGR	100				
+Ward	Tromp	24	Aspen	2	ENGR	151	EECS	215		
+Seamus	Reichel	25	Aspen	1	IOE	310				
+Chance	Swift	25	Hickory	1	ENGR	110				
+Syble	Wisozk	24	Spruce	1	MATH	214				
+Derek	Larson	20	Hemlock	3	MATH	216	EECS	215	ENGR	100
+Benny	Huels	18	Aspen	2	IOE	265	ENGR	101		
+Luigi	Parker	20	Maple	3	ENGR	151	MATH	214	MATH	116
+Gussie	Durgan	19	Pine	3	ENGR	151	CHEM	125	EECS	281
+Lucas	Bahringer	19	Pine	1	MATH	214				
+Letha	Durgan	20	Pine	2	CHEM	125	MECHENG	240		
+Yessenia	Kovacek	25	Hemlock	2	MATH	214	PHYSICS	141		
+Serena	Cassin	19	Hawthorn	3	MATH	216	MATH	215	MECHENG	240
+Jenifer	Trantow	19	Beech	3	IOE	265	IOE	265	MATH	215
+Annabell	Gusikowski	20	Hickory	2	EECS	215	PHYSICS	141		
+Freddie	Vandervort	16	Sycamore	2	EECS	215	PHYSICS	240		
+Dalton	Kerluke	17	Beech	2	PHYSICS	141	EECS	280		
+Garett	Baumbach	19	Maple	3	MECHENG	250	EECS	280	PHYSICS	241
+Jermaine	Rosenbaum	25	Hemlock	1	MATH	214				
+Oran	Wisozk	18	Pine	2	EECS 	203	PHYSICS	241		
+Rachelle	Farrell	16	Ash	1	MATH	214				
+Gilberto	Gorczany	24	Hawthorn	2	ENGR	151	MATH	215		
+Kyleigh	Rice	22	Aspen	2	EECS 	203	PHYSICS	140		
+Edmond	O'Conner	25	Hawthorn	1	IOE	310				
+Doug	Dickens	25	Cherry	3	EECS 	203	CHEM	125	MATH	214
+Felton	Bechtelar	16	Hickory	1	MECHENG	240				
+Retha	Blanda	23	Hickory	3	ENGR	100	IOE	310	CHEM	125
+Luna	Walsh	25	Spruce	1	MATH	216				
+Benton	Schmidt	24	Sycamore	2	EECS 	203	IOE	265		
+Dwight	Zboncak	20	Cherry	2	ENGR	151	PHYSICS	240		
+Gracie	Emmerich	19	Aspen	3	MATH	216	PHYSICS	141	PHYSICS	141
+Eulalia	Kilback	16	Cherry	3	ENGR	101	MATH	214	PHYSICS	241
+Ali	Renner	16	Aspen	2	MATH	216	EECS	215		
+Roslyn	Hand	25	Hemlock	1	PHYSICS	241				
+Franz	Rogahn	24	Hemlock	2	EECS	281	ENGR	101		
+Loren	Kunde	22	Maple	3	ENGR	110	MECHENG	240	PHYSICS	141
+Ethel	Heathcote	19	Elm	2	PHYSICS	240	PHYSICS	140		
+Jermaine	Rempel	20	Sycamore	3	ENGR	100	ENGR	100	MATH	216
+Audrey	Bins	21	Maple	1	PHYSICS	240				
+Velva	Prosacco	25	Beech	1	EECS	281				
+Jamel	Nitzsche	23	Hawthorn	1	MATH	216				
+Casandra	Rowe	16	Elm	1	MECHENG	240				
+Axel	Hegmann	18	Maple	3	MATH	216	PHYSICS	241	IOE	310
+Stacey	Lynch	25	Cherry	3	ENGR	110	MATH	216	ENGR	101
+Felton	Wyman	17	Beech	1	EECS	215				
+Lucas	Heller	19	Pine	1	CHEM	125				
+Lucious	Pagac	18	Sycamore	1	EECS	215				
+Freeman	DuBuque	23	Sycamore	2	EECS	215	PHYSICS	140		
+Fatima	Parisian	20	Birch	2	MATH	115	CHEM	125		
+Margot	Hirthe	20	Pine	1	EECS 	203				
+Marlin	Heidenreich	17	Cherry	2	EECS 	203	IOE	310		
+Litzy	Heathcote	18	Birch	2	MECHENG	250	EECS	281		
+Dexter	Raynor	23	Ash	1	MATH	216				
+Mittie	Mills	25	Hemlock	2	EECS 	203	MATH	214		
+Quincy	Collier	20	Hawthorn	1	ENGR	110				
+Trycia	Kassulke	20	Cherry	2	EECS 	203	MATH	116		
+Al	Conroy	19	Fir	1	PHYSICS	140				
+Louisa	Murphy	24	Hickory	2	EECS	280	MATH	216		
+Kaylie	Braun	21	Birch	3	MATH	214	PHYSICS	240	MATH	216
+Dorcas	Adams	20	Sycamore	2	ENGR	151	MECHENG	250		
+Jenifer	Metz	25	Maple	1	EECS	215				
+Alene	Walter	16	Ash	1	IOE	265				
+Daniela	Rippin	17	Hawthorn	1	MECHENG	250				
+Megane	Hoppe	24	Sycamore	3	ENGR	151	CHEM	125	ENGR	100
+Rollin	Watsica	21	Spruce	2	IOE	310	PHYSICS	141		
+Lonnie	Gerhold	19	Hawthorn	3	ENGR	101	MATH	216	IOE	310
+Lonie	Luettgen	18	Cherry	1	MATH	214				
+General	Davis	20	Sycamore	3	ENGR	110	ENGR	100	MECHENG	240
+Jonas	Aufderhar	22	Maple	1	MATH	116				
+Rashawn	Wiza	16	Fir	2	ENGR	101	MATH	215		
+Karine	Fahey	24	Fir	1	MECHENG	240				
+Prudence	Windler	21	Cherry	3	EECS	215	MATH	214	PHYSICS	140
+Werner	Haley	23	Willow	3	MATH	116	MATH	216	ENGR	110
+Anabel	Homenick	22	Willow	2	MATH	116	ENGR	110		
+Otis	Stehr	21	Aspen	3	EECS	215	MATH	214	MATH	116
+Abigale	Schoen	25	Hawthorn	3	MECHENG	250	EECS	215	EECS	281
+Angel	Dicki	21	Hemlock	2	ENGR	100	EECS	281		
+Karlee	Kreiger	25	Spruce	3	ENGR	101	MATH	216	MATH	215
+Paige	Kertzmann	18	Fir	2	MECHENG	240	EECS 	203		
+Jed	Bogisich	24	Ash	1	ENGR	100				
+Benedict	Morissette	18	Spruce	3	MATH	115	ENGR	151	MATH	214
+Skylar	Zemlak	23	Maple	3	MATH	215	MATH	115	PHYSICS	240
+Chelsie	Bailey	17	Beech	1	IOE	265				
+Fiona	Parisian	22	Fir	2	MATH	115	MECHENG	250		
+Susie	Buckridge	22	Pine	1	MATH	214				
+Ryann	Paucek	25	Cherry	3	MATH	215	PHYSICS	240	ENGR	110
+Deron	Keebler	19	Ash	1	PHYSICS	140				
+Katherine	Harvey	22	Ash	1	IOE	310				
+Helene	Pouros	17	Hawthorn	3	MATH	116	PHYSICS	141	PHYSICS	240
+Andres	Lang	23	Hickory	1	IOE	310				
+Maymie	O'Connell	17	Hickory	2	MECHENG	250	MATH	116		
+Kailey	Schulist	20	Aspen	1	EECS	280				
+Murl	Spinka	18	Sycamore	3	ENGR	151	EECS	280	MATH	115
+Albert	Grimes	25	Spruce	2	PHYSICS	240	MECHENG	250		
+Maryse	Wunsch	25	Ash	3	PHYSICS	240	MATH	216	EECS	280
+Werner	Gaylord	16	Maple	1	MATH	215				
+Marjolaine	Huels	20	Elm	1	EECS	215				
+Lacy	McCullough	18	Hemlock	2	EECS	215	IOE	310		
+Onie	Senger	23	Cherry	3	EECS	215	EECS	215	PHYSICS	141
+Fletcher	Altenwerth	25	Beech	2	MECHENG	250	IOE	265		
+Gladyce	Kling	17	Beech	1	IOE	265				
+Madyson	Gleason	21	Pine	3	MATH	216	MATH	214	MATH	214
+Oscar	Yost	24	Cherry	3	IOE	310	EECS	280	IOE	310
+Jimmy	Marks	24	Willow	1	EECS	281				
+Herman	Medhurst	18	Fir	1	MATH	115				
+Rachel	Sanford	20	Hemlock	2	ENGR	100	MATH	216		
+Colin	Hagenes	21	Spruce	3	MATH	216	IOE	310	PHYSICS	140
+Dawn	Oberbrunner	17	Elm	1	IOE	265				
+Vickie	Quitzon	17	Hawthorn	3	MECHENG	240	IOE	310	MECHENG	240
+Kellie	Green	25	Hickory	2	IOE	265	MECHENG	250		
+Elissa	Windler	17	Ash	3	MATH	214	ENGR	151	PHYSICS	240
+Teresa	Hilpert	22	Birch	3	MECHENG	240	EECS	215	MATH	214
+Rowena	Kertzmann	22	Sycamore	3	EECS	281	IOE	265	IOE	310
+Amira	Halvorson	16	Elm	1	MATH	214				
+Kane	Schuster	16	Willow	1	EECS	280				
+Amira	Harvey	23	Spruce	1	EECS	215				
+Alberto	Bradtke	20	Hickory	2	MATH	116	PHYSICS	140		
+Valentina	Hessel	19	Cherry	2	ENGR	100	EECS	281		
+Dashawn	Maggio	25	Hawthorn	3	MATH	215	ENGR	100	EECS 	203
+Tiana	Kessler	20	Spruce	2	IOE	310	PHYSICS	141		
+Luis	Hagenes	16	Willow	2	EECS 	203	IOE	310		
+Estrella	Weissnat	20	Ash	1	EECS 	203				
+Jovany	Larkin	21	Sycamore	1	ENGR	151				
+Carlee	Kassulke	16	Sycamore	3	EECS	215	PHYSICS	141	MATH	216
+Kyler	Ernser	20	Spruce	2	MECHENG	240	MATH	116		
+Magnolia	Ward	21	Hawthorn	3	EECS	280	EECS 	203	PHYSICS	241
+Tracey	Casper	23	Hickory	2	MECHENG	250	MATH	115		
+Brown	Koss	19	Spruce	1	EECS	280				
+Rosella	Legros	18	Spruce	2	EECS	280	EECS 	203		
+Valerie	Lueilwitz	23	Fir	3	PHYSICS	141	ENGR	101	MATH	215
+Derek	Runolfsson	24	Ash	3	IOE	265	ENGR	100	IOE	265
+Samson	Zboncak	20	Aspen	2	EECS	280	ENGR	151		
+Florida	Gleichner	23	Pine	2	MATH	116	MATH	116		
+Bailey	Wiegand	21	Sycamore	2	CHEM	125	MECHENG	250		
+Alisha	Kovacek	25	Aspen	3	EECS	215	ENGR	151	EECS	215
+Dolores	Fisher	20	Hawthorn	2	EECS 	203	EECS	215		
+Elijah	Hudson	19	Cherry	2	MATH	214	MECHENG	250		
+Susie	Wolf	22	Birch	3	EECS	281	IOE	310	MATH	216
+Pearline	Dickinson	23	Birch	3	ENGR	101	PHYSICS	140	MECHENG	240
+Jamey	Green	20	Spruce	1	IOE	265				
+Rylan	Gulgowski	20	Fir	1	CHEM	125				
+Ola	O'Conner	16	Hickory	1	MATH	115				
+Amya	Kuhic	25	Pine	3	IOE	310	EECS	281	IOE	265
+Jodie	Nitzsche	23	Pine	3	EECS 	203	MATH	215	MATH	216
+Vaughn	Altenwerth	21	Elm	1	ENGR	101				
+Alan	Bradtke	23	Pine	2	ENGR	151	EECS 	203		
+Penelope	Von	16	Aspen	3	MATH	116	MATH	215	PHYSICS	141
+Ephraim	McCullough	18	Elm	1	ENGR	151				
+Lavinia	Welch	19	Willow	1	MATH	215				
+Amir	Homenick	21	Ash	1	MECHENG	250				
+Muriel	Bashirian	20	Spruce	1	ENGR	100				
+Ernestina	Leannon	20	Ash	3	EECS	215	ENGR	101	IOE	310
+Johanna	Reynolds	16	Elm	1	PHYSICS	241				
+Gideon	O'Conner	20	Fir	1	EECS 	203				
+Missouri	Bernier	18	Sycamore	2	MECHENG	250	MATH	214		
+Jett	Stracke	16	Hickory	3	EECS	215	PHYSICS	240	IOE	310
+Quinten	Block	25	Birch	1	ENGR	151				
+Clinton	Kiehn	16	Fir	2	EECS	215	PHYSICS	240		
+Werner	Jaskolski	16	Hemlock	3	PHYSICS	240	PHYSICS	141	MECHENG	250
+Toy	Fisher	25	Hawthorn	2	PHYSICS	240	PHYSICS	241		
+Elvis	Franecki	18	Fir	2	ENGR	110	MECHENG	240		
+Erica	Hills	18	Beech	2	MATH	216	EECS 	203		
+Beverly	Schiller	23	Hawthorn	2	MECHENG	250	PHYSICS	241		
+Daisy	Schaefer	24	Hemlock	2	MECHENG	250	EECS	281		
+Clint	Pacocha	19	Cherry	1	ENGR	151				
+Ted	Lesch	23	Hawthorn	1	IOE	265				
+Pat	Predovic	16	Aspen	1	MATH	115				
+Lou	Weissnat	21	Spruce	2	PHYSICS	241	CHEM	125		
+Bette	Will	25	Maple	3	PHYSICS	140	ENGR	100	MECHENG	250
+Juliet	Senger	23	Hawthorn	1	IOE	265				
+Eldred	Thiel	21	Beech	1	IOE	310				
+Maegan	Kemmer	19	Sycamore	1	MECHENG	250				
+Ollie	Crooks	16	Hawthorn	1	ENGR	101				
+Adaline	Weissnat	25	Birch	3	MATH	115	MECHENG	250	ENGR	110
+Nikita	Mraz	23	Ash	3	PHYSICS	140	MATH	215	EECS	215
+Judge	Kutch	24	Elm	1	MATH	216				
+Emmy	Krajcik	18	Beech	2	PHYSICS	240	PHYSICS	241		
+Rosella	Moen	23	Hawthorn	3	EECS	281	PHYSICS	240	MATH	216
+Koby	Rogahn	24	Birch	3	ENGR	110	CHEM	125	EECS	280
+Cesar	Stokes	17	Ash	3	PHYSICS	241	EECS 	203	IOE	265
+Lela	Rau	18	Elm	1	ENGR	151				
+Rey	Conroy	22	Willow	2	MATH	216	ENGR	151		
+Maegan	Toy	17	Fir	2	CHEM	125	MATH	216		
+Maci	Johnston	23	Willow	1	PHYSICS	141				
+Margret	Lind	23	Hickory	1	EECS	280				
+Orrin	Hickle	21	Maple	2	EECS	280	EECS	281		
+Hailey	Becker	20	Fir	2	IOE	265	PHYSICS	140		
+Rylan	Yundt	18	Hemlock	3	PHYSICS	240	ENGR	100	EECS	215
+Tressa	Bednar	23	Ash	3	IOE	265	MECHENG	250	EECS	280
+Golda	Dare	25	Hemlock	1	MATH	115				
+Coty	Schoen	25	Elm	3	MECHENG	250	MECHENG	250	ENGR	101
+Jordan	Maggio	20	Beech	1	MATH	216				
+Guillermo	Kuhn	16	Willow	1	CHEM	125				
+Owen	Erdman	21	Fir	3	MATH	215	EECS 	203	EECS	281
+Lottie	Kihn	19	Willow	3	MATH	115	MECHENG	240	ENGR	101
+Mafalda	Bogan	24	Hemlock	1	ENGR	100				
+Graham	O'Connell	21	Spruce	1	EECS	215				
+Isabel	Thiel	21	Sycamore	2	PHYSICS	240	MATH	216		
+Kamille	Greenfelder	24	Sycamore	2	PHYSICS	141	MECHENG	250		
+Rahul	Schamberger	17	Hickory	2	EECS	281	ENGR	110		
+Pablo	Braun	16	Ash	1	EECS	280				
+Viva	Kutch	16	Elm	3	EECS	280	ENGR	101	MATH	214
+Alva	Keebler	21	Hickory	1	PHYSICS	141				
+Donavon	McGlynn	19	Willow	1	MATH	116				
+Scotty	Lehner	17	Elm	2	MECHENG	240	MECHENG	240		
+Hayley	Sanford	19	Cherry	2	ENGR	101	MATH	116		
+Pearlie	Lind	20	Birch	2	MATH	214	MECHENG	240		
+Alex	Moore	18	Hickory	2	ENGR	110	ENGR	151		
+Dorothea	Waters	19	Hawthorn	1	ENGR	151				
+Aracely	Goodwin	21	Sycamore	2	PHYSICS	241	MATH	214		
+Marguerite	Roob	22	Birch	1	MATH	214				
+Reyes	Donnelly	21	Beech	3	PHYSICS	240	EECS	280	MATH	216
+Merlin	Kuhn	22	Willow	2	ENGR	101	PHYSICS	241		
+Elizabeth	Boyer	24	Birch	1	PHYSICS	141				
+Antonietta	Bailey	25	Spruce	2	IOE	265	PHYSICS	241		
+Josianne	Jast	22	Birch	1	EECS	280				
+Morgan	Collier	18	Elm	2	MATH	214	PHYSICS	141		
+Courtney	Cormier	18	Birch	2	MECHENG	250	ENGR	151		
+Herta	Witting	24	Beech	3	MECHENG	250	CHEM	125	CHEM	125
+Ernestine	O'Hara	19	Fir	1	PHYSICS	240				
+Sydni	Lebsack	21	Sycamore	3	IOE	265	MATH	116	IOE	310
+Michale	Brekke	19	Spruce	1	MATH	214				
+Zelma	Jacobi	16	Ash	1	PHYSICS	141				
+Ines	Pagac	23	Beech	3	PHYSICS	241	EECS	215	ENGR	151
+Olga	DuBuque	23	Willow	2	MATH	215	CHEM	125		
+Carleton	King	25	Hickory	1	ENGR	151				
+Eveline	Hettinger	25	Willow	2	EECS 	203	EECS	281		
+Kaia	Spinka	25	Hickory	2	IOE	310	MATH	216		
+Wilburn	Armstrong	25	Hawthorn	2	MATH	115	MATH	214		
+Delfina	Stiedemann	20	Hickory	1	EECS	280				
+Delbert	Friesen	24	Birch	3	IOE	310	MATH	115	PHYSICS	141
+Stephen	Hermiston	18	Pine	2	MATH	115	MATH	115		
+Oswaldo	Schowalter	25	Aspen	2	ENGR	100	MATH	115		
+Constantin	Rippin	23	Willow	2	MATH	214	MECHENG	250		
+Tyrique	Schaden	16	Hickory	1	MECHENG	250				
+Harold	Kreiger	16	Beech	3	MECHENG	240	MATH	215	MATH	216
+Markus	Kuhn	20	Hawthorn	3	MECHENG	240	MECHENG	250	ENGR	110
+Mireya	Stamm	21	Ash	1	MECHENG	240				
+Dominique	Gerlach	16	Fir	3	PHYSICS	240	MATH	216	MATH	216
+John	Conn	20	Birch	2	CHEM	125	CHEM	125		
+Tiana	Berge	16	Beech	1	ENGR	110				
+Kellie	Glover	23	Elm	2	PHYSICS	141	PHYSICS	141		
+Adeline	Willms	18	Cherry	2	ENGR	100	EECS	215		
+Abbey	Orn	24	Hickory	2	PHYSICS	241	MATH	214		
+Axel	Leannon	23	Elm	1	EECS	280				
+Bradford	Pagac	24	Hickory	1	EECS	281				
+Constantin	Kertzmann	24	Beech	3	PHYSICS	240	ENGR	151	ENGR	101
+Margret	Davis	23	Maple	2	IOE	310	EECS	281		
+Noah	Pollich	16	Hemlock	1	IOE	310				
+Cassandre	Prohaska	24	Elm	2	MATH	116	MATH	115		
+Ruben	Bradtke	20	Aspen	2	CHEM	125	EECS 	203		
+Hector	Schinner	21	Beech	1	EECS	215				
+Layla	Kshlerin	24	Ash	2	ENGR	151	IOE	265		
+Jacey	Connelly	17	Willow	1	ENGR	101				
+Gerda	Ernser	17	Elm	1	EECS	215				
+Pamela	Frami	19	Fir	3	EECS	281	IOE	310	PHYSICS	141
+Emerald	Abernathy	19	Hawthorn	1	MECHENG	240				
+Lavon	Fay	18	Ash	2	MATH	116	CHEM	125		
+Jennyfer	Ebert	24	Willow	1	PHYSICS	141				
+Monserrat	Herman	23	Aspen	1	MATH	116				
+Darion	Runolfsson	20	Aspen	3	ENGR	100	EECS 	203	EECS	215
+Selena	Marvin	18	Hickory	3	PHYSICS	140	IOE	265	PHYSICS	141
+Roel	Murphy	17	Aspen	2	ENGR	100	IOE	265		
+Elmore	Rohan	16	Spruce	3	PHYSICS	240	MATH	115	PHYSICS	240
+Okey	Hudson	18	Sycamore	3	EECS	280	EECS	281	MECHENG	250
+Dewayne	Ritchie	24	Pine	1	EECS	281				
+Misael	Upton	22	Maple	1	ENGR	110				
+Savannah	Beer	24	Maple	3	ENGR	110	PHYSICS	241	IOE	310
+Miguel	Blanda	18	Cherry	2	MATH	116	ENGR	151		
+Nelda	Gutkowski	23	Hickory	3	MATH	115	MATH	115	MECHENG	240
+Morton	Haley	19	Beech	3	CHEM	125	ENGR	151	MATH	115
+Edna	Roberts	24	Pine	2	PHYSICS	140	PHYSICS	240		
+Frida	McKenzie	24	Sycamore	3	IOE	310	PHYSICS	241	MATH	216
+Albin	Murray	18	Cherry	3	EECS	215	ENGR	101	MATH	216
+Jovanny	Balistreri	17	Hickory	2	EECS	280	PHYSICS	140		
+Carrie	Grady	24	Hemlock	1	PHYSICS	141				
+Marilie	Hermiston	20	Beech	3	MATH	215	IOE	265	PHYSICS	240
+Silas	Huels	17	Willow	3	MECHENG	250	ENGR	100	MECHENG	250
+Aliza	Bashirian	18	Cherry	3	IOE	310	ENGR	101	ENGR	151
+Noemi	Cassin	21	Elm	1	MATH	216				
+Justine	Tillman	23	Elm	3	PHYSICS	140	ENGR	100	ENGR	110
+Pauline	Daugherty	24	Sycamore	3	ENGR	101	PHYSICS	141	ENGR	100
+Daren	Nicolas	22	Ash	3	PHYSICS	141	IOE	310	MATH	116
+Sigrid	Mann	23	Aspen	1	MATH	116				
+Kendall	Kertzmann	19	Spruce	2	ENGR	101	PHYSICS	141		
+Adalberto	Yost	22	Birch	2	ENGR	100	PHYSICS	140		
+Kassandra	Bednar	19	Spruce	3	IOE	265	ENGR	101	EECS	280
+Roosevelt	Koelpin	22	Spruce	1	MECHENG	250				
+Tomasa	Russel	17	Birch	1	IOE	310				
+Brendan	Yundt	20	Sycamore	1	PHYSICS	141				
+Hassie	Gleichner	25	Elm	2	ENGR	101	ENGR	110		
+Estella	Sawayn	18	Hawthorn	1	EECS	280				
+Alison	Witting	19	Hemlock	2	PHYSICS	241	MECHENG	250		
+Olen	Green	25	Ash	2	ENGR	101	EECS	281		
+Kristian	Nader	23	Spruce	3	EECS	215	MATH	216	IOE	310
+Yasmine	Fisher	24	Spruce	2	EECS	215	MECHENG	250		
+Vivianne	Bradtke	17	Spruce	2	ENGR	110	PHYSICS	141		
+Gardner	King	16	Fir	2	MECHENG	250	MATH	115		
+Fern	Grimes	16	Maple	1	PHYSICS	240				
+Roma	Altenwerth	20	Hickory	3	IOE	310	MATH	115	PHYSICS	240
+Dedric	Ziemann	21	Beech	1	PHYSICS	240				
+Tanner	Mohr	16	Ash	1	MECHENG	250				
+Kade	Quitzon	22	Sycamore	2	MATH	115	EECS	280		
+Vena	Turcotte	16	Willow	2	PHYSICS	141	ENGR	100		
+Hugh	Funk	24	Pine	3	MECHENG	240	MATH	116	EECS 	203
+Alexandrine	Olson	22	Hawthorn	3	EECS 	203	ENGR	110	MATH	115
+Kristina	Schoen	18	Fir	1	MECHENG	250				
+Lucas	Bernhard	17	Maple	1	PHYSICS	140				
+Sonny	Keebler	21	Sycamore	2	MECHENG	240	ENGR	101		
+Makayla	Nicolas	24	Beech	3	PHYSICS	141	IOE	265	ENGR	110
+Magdalen	Satterfield	21	Elm	1	EECS	215				
+Oma	Wilkinson	23	Cherry	1	IOE	310				
+Brody	Hahn	21	Spruce	2	ENGR	101	MATH	115		
+Norris	Herman	23	Maple	2	ENGR	101	CHEM	125		
+Brannon	McKenzie	19	Willow	2	MATH	115	PHYSICS	140		
+Devon	Zemlak	21	Beech	2	PHYSICS	141	EECS	280		
+Kale	Macejkovic	20	Pine	1	MECHENG	250				
+Karley	Lakin	19	Sycamore	2	PHYSICS	140	ENGR	101		
+Susie	MacGyver	24	Hickory	3	EECS 	203	ENGR	101	IOE	310
+Mathilde	Schmeler	23	Birch	1	PHYSICS	240				
+Miller	Hudson	18	Hemlock	3	EECS	280	PHYSICS	241	EECS	280
+Leatha	Ruecker	25	Beech	1	MECHENG	240				
+Joaquin	Lemke	17	Fir	2	IOE	310	MATH	215		
+Aryanna	Jaskolski	16	Cherry	2	ENGR	110	ENGR	100		
+Marietta	Mosciski	22	Sycamore	1	ENGR	100				
+Jovany	Robel	25	Cherry	2	MATH	115	MECHENG	250		
+Nash	Lindgren	24	Hawthorn	1	MATH	115				
+Cassandra	Kulas	21	Aspen	2	MATH	115	PHYSICS	140		
+Hiram	Smith	25	Hemlock	1	CHEM	125				
+Letha	Gutkowski	23	Birch	3	PHYSICS	141	EECS 	203	MATH	214
+Kamryn	Langworth	21	Hemlock	3	IOE	265	PHYSICS	241	CHEM	125
+Thurman	Rath	20	Ash	2	MATH	215	MECHENG	250		
+Mose	Towne	25	Cherry	2	MECHENG	250	EECS 	203		
+Gideon	Stark	22	Aspen	1	IOE	265				
+Calista	Willms	20	Fir	2	PHYSICS	141	PHYSICS	141		
+Gilbert	Cole	23	Fir	3	PHYSICS	140	MECHENG	250	EECS 	203
+Estevan	Sipes	23	Hawthorn	1	MATH	215				
+Percy	Jakubowski	21	Sycamore	2	ENGR	101	EECS 	203		
+Minnie	Becker	19	Hawthorn	2	EECS 	203	PHYSICS	241		
+Kristoffer	Quitzon	17	Ash	3	ENGR	101	ENGR	101	IOE	265
+Consuelo	Kuhn	20	Hemlock	1	ENGR	101				
+Jamison	Koelpin	21	Sycamore	2	ENGR	100	IOE	265		
+Orpha	Koepp	20	Birch	3	IOE	310	MECHENG	250	ENGR	110
+Serena	Terry	21	Beech	2	PHYSICS	141	IOE	310		
+Wilburn	Ferry	16	Hemlock	3	MATH	215	ENGR	110	IOE	265
+Arthur	Buckridge	20	Spruce	3	ENGR	100	MATH	214	PHYSICS	241
+Javier	Von	20	Pine	1	MATH	116				
+Bradford	Eichmann	21	Willow	3	EECS	281	MATH	116	MECHENG	240
+Macey	Collier	19	Ash	3	MECHENG	240	PHYSICS	141	ENGR	151
+Ezekiel	Quitzon	24	Elm	2	MATH	215	ENGR	100		
+Avery	Kihn	23	Ash	1	EECS	215				
+Jedediah	Hackett	22	Elm	2	ENGR	100	ENGR	100		
+Pierre	Blanda	19	Beech	3	MATH	115	CHEM	125	MATH	116
+Walton	Fahey	24	Hawthorn	3	ENGR	151	MATH	214	ENGR	100
+Dejuan	Kautzer	19	Hickory	2	EECS 	203	ENGR	110		
+Thomas	Howell	22	Beech	3	ENGR	101	ENGR	110	MATH	216
+Jasmin	Bernhard	19	Aspen	3	MATH	116	PHYSICS	141	EECS	281
+Lorenza	Bailey	23	Birch	2	ENGR	101	MATH	214		
+Sylvan	Smitham	19	Hickory	1	IOE	310				
+Terrill	Howe	21	Hawthorn	1	ENGR	100				
+Patricia	Smitham	20	Hawthorn	3	PHYSICS	141	ENGR	110	MATH	116
+Elouise	Oberbrunner	17	Birch	1	EECS	280				
+Rosina	Kulas	19	Hemlock	2	IOE	265	ENGR	151		
+Furman	Homenick	17	Elm	2	MATH	215	MECHENG	250		
+Timothy	Pacocha	22	Maple	3	ENGR	151	ENGR	151	EECS 	203
+Drake	Hand	16	Fir	1	MATH	116				
+Adrain	Ferry	16	Maple	2	MATH	216	PHYSICS	240		
+Clementina	Volkman	20	Beech	2	MATH	214	IOE	265		
+Coby	Dicki	20	Fir	2	PHYSICS	141	EECS	280		
+Roy	Stanton	16	Fir	2	MATH	116	MECHENG	250		
+Ryan	Cummings	18	Fir	1	PHYSICS	140				
+Kaylin	Witting	16	Willow	1	ENGR	101				
+Cassidy	Kreiger	22	Willow	3	MATH	215	MECHENG	250	MATH	115
+Judge	Murray	17	Birch	3	PHYSICS	140	MATH	214	CHEM	125
+Piper	Swaniawski	25	Spruce	1	MECHENG	240				
+Nona	Carter	23	Spruce	1	CHEM	125				
+Patricia	Marvin	21	Spruce	1	PHYSICS	240				
+Deja	Turner	24	Elm	3	MATH	115	EECS	280	EECS 	203
+Virgil	Fritsch	16	Beech	3	ENGR	110	ENGR	151	MECHENG	240
+Paula	Nader	25	Pine	3	PHYSICS	241	MATH	115	ENGR	151
+Delia	Schinner	24	Elm	3	CHEM	125	MECHENG	240	ENGR	101
+Titus	Konopelski	21	Pine	1	ENGR	100				
+Annie	Lind	24	Birch	2	EECS	281	ENGR	110		
+Roy	Kassulke	18	Birch	2	CHEM	125	PHYSICS	141		
+Faye	Kertzmann	16	Sycamore	3	MATH	116	PHYSICS	140	IOE	265
+Geovany	Marks	21	Fir	1	PHYSICS	141				
+Aaliyah	Boyer	20	Hickory	3	PHYSICS	241	MATH	115	MATH	115
+Cristobal	Gibson	19	Aspen	1	MATH	115				
+Yazmin	Jacobs	18	Willow	3	MATH	215	CHEM	125	IOE	265
+Brock	Douglas	23	Willow	2	MATH	214	ENGR	110		
+Mohamed	Durgan	16	Beech	3	PHYSICS	241	MECHENG	240	ENGR	100
+Noemi	Zulauf	17	Fir	2	CHEM	125	MECHENG	250		
+Concepcion	Doyle	24	Hawthorn	1	IOE	265				
+Columbus	Abbott	24	Hemlock	3	MECHENG	250	EECS	281	EECS	215
+Sammie	Gorczany	16	Aspen	1	MATH	116				
+Thaddeus	Hartmann	20	Cherry	3	ENGR	100	MECHENG	240	MECHENG	250
+Bria	Orn	18	Hickory	3	IOE	265	PHYSICS	240	EECS	281
+Jaime	Watsica	18	Beech	3	EECS	215	MECHENG	250	PHYSICS	140
+Jeanne	Feeney	17	Willow	1	ENGR	151				
+Shyann	Pfannerstill	23	Hawthorn	3	PHYSICS	140	MATH	216	MECHENG	250
+Minnie	Harber	18	Elm	2	EECS	281	MECHENG	240		
+Lennie	Marks	18	Ash	3	EECS 	203	ENGR	110	CHEM	125
+Aaliyah	Tillman	18	Birch	3	EECS	280	PHYSICS	241	PHYSICS	140
+Emilie	Carter	24	Pine	3	ENGR	110	PHYSICS	141	PHYSICS	240
+Alene	Block	22	Aspen	1	EECS	281				
+Christ	Gaylord	21	Spruce	1	EECS	215				
+Reina	Doyle	19	Elm	2	ENGR	101	MECHENG	240		
+Torrance	Walker	18	Hickory	3	PHYSICS	241	PHYSICS	140	MATH	116
+Billie	VonRueden	17	Sycamore	1	MATH	214				
+Savanah	Hills	18	Fir	2	EECS 	203	MATH	116		
+Alta	Klocko	24	Hemlock	2	ENGR	151	EECS	281		
+Marcella	Rohan	21	Maple	1	EECS	280				
+Napoleon	Wyman	23	Hemlock	2	ENGR	151	MATH	214		
+Georgiana	Wintheiser	17	Maple	3	ENGR	101	CHEM	125	PHYSICS	241
+Jazmyn	Marquardt	22	Hawthorn	1	EECS 	203				
+Eulah	Prosacco	18	Cherry	1	PHYSICS	240				
+Scotty	Osinski	17	Fir	3	ENGR	100	EECS	215	PHYSICS	241
+Jeremy	Connelly	17	Maple	3	ENGR	101	ENGR	101	IOE	265
+Imogene	Brown	22	Hemlock	2	ENGR	110	MATH	116		
+Elda	Smith	19	Cherry	2	MECHENG	240	ENGR	101		
+Jason	Doyle	16	Aspen	1	MATH	214				
+Marcus	Goyette	22	Spruce	1	MATH	115				
+Vernon	Stark	16	Birch	2	IOE	265	ENGR	100		
+Toy	Rosenbaum	19	Pine	2	EECS	280	EECS	215		
+Raquel	Shanahan	20	Ash	3	ENGR	151	MATH	116	ENGR	110
+Anita	Turcotte	16	Hawthorn	1	ENGR	100				
+Cora	Barrows	24	Willow	3	MATH	216	EECS	215	EECS	215
+Valentina	Volkman	21	Hawthorn	1	ENGR	110				
+Warren	Durgan	20	Maple	1	CHEM	125				
+Christelle	Parisian	20	Spruce	2	IOE	310	MATH	115		
+Destini	Orn	18	Hickory	1	MATH	116				
+Tomas	Larkin	25	Fir	2	EECS	280	IOE	265		
+Vivian	Wiza	25	Birch	2	ENGR	101	EECS 	203		
+Taryn	Ernser	21	Hawthorn	2	ENGR	110	ENGR	101		
+Ebba	Zboncak	23	Birch	1	MECHENG	250				
+Brisa	Olson	24	Hickory	3	ENGR	100	EECS	281	CHEM	125
+Fabian	Jaskolski	16	Aspen	2	IOE	310	ENGR	110		
+Danyka	Okuneva	25	Hemlock	1	MATH	115				
+Alana	Lemke	16	Cherry	3	ENGR	110	MATH	216	PHYSICS	241
+Simone	Leannon	22	Aspen	3	CHEM	125	ENGR	101	MATH	116
+Hollis	Emard	18	Elm	1	PHYSICS	140				
+Genesis	Hickle	17	Beech	1	EECS	215				
+Tracy	Senger	19	Beech	2	IOE	265	MECHENG	250		
+Perry	Monahan	19	Hickory	2	MATH	115	CHEM	125		
+Miles	Keeling	17	Cherry	3	PHYSICS	240	ENGR	110	MECHENG	250
+Mona	Larson	25	Willow	1	MATH	215				
+Cleveland	Larson	22	Hickory	1	IOE	265				
+Norberto	O'Connell	16	Aspen	3	MATH	116	MATH	116	ENGR	100
+Bryce	Kuhn	16	Aspen	2	MATH	115	EECS 	203		
+Porter	Gibson	21	Pine	3	MATH	214	MATH	215	MATH	116
+Markus	Schmeler	25	Hawthorn	3	PHYSICS	141	ENGR	151	CHEM	125
+Ryan	McClure	25	Sycamore	1	IOE	310				
+Favian	Wiza	20	Willow	3	MATH	216	EECS	280	MATH	116
+Modesta	Dickinson	22	Ash	1	CHEM	125				
+Morton	Keeling	16	Willow	1	PHYSICS	241				
+Jamil	Wehner	22	Beech	1	MECHENG	240				
+Charlotte	Ledner	23	Hickory	1	MATH	116				
+Jay	Schuster	20	Elm	2	PHYSICS	140	PHYSICS	240		
+Jettie	Hills	23	Birch	3	ENGR	100	ENGR	110	PHYSICS	141
+Alessia	Schimmel	16	Willow	2	PHYSICS	141	ENGR	100		
+Myrtie	Berge	22	Spruce	3	MATH	215	EECS	281	EECS	281
+Connor	Towne	23	Pine	1	PHYSICS	140				
+Esta	Beier	22	Hickory	1	ENGR	151				
+Roxane	Rogahn	24	Pine	1	PHYSICS	241				
+Earnestine	Champlin	19	Beech	3	PHYSICS	141	PHYSICS	141	MECHENG	240
+Ethyl	Howell	24	Fir	1	PHYSICS	241				
+Abdul	Konopelski	22	Hawthorn	2	MATH	116	PHYSICS	141		
+Raleigh	Walter	18	Hemlock	2	PHYSICS	140	ENGR	101		
+Frances	Deckow	18	Cherry	3	PHYSICS	140	ENGR	151	EECS	280
+Florine	Kerluke	18	Hickory	2	MECHENG	250	ENGR	101		
+Hans	Sauer	25	Cherry	3	EECS	280	EECS	280	MATH	116
+Sylvia	Waelchi	18	Birch	3	MATH	216	EECS	281	PHYSICS	141
+Justus	Leuschke	18	Spruce	1	MECHENG	250				
+Lily	Hagenes	17	Elm	2	ENGR	151	PHYSICS	241		
+Aurelio	Legros	22	Pine	1	PHYSICS	141				
+Luigi	Bins	17	Fir	1	PHYSICS	240				
+Sadie	Bednar	20	Pine	2	PHYSICS	241	PHYSICS	240		
+Effie	Runte	21	Sycamore	1	MATH	214				
+Jaqueline	Kassulke	18	Pine	2	ENGR	151	ENGR	110		
+Sigmund	Kunde	24	Beech	1	MATH	215				
+Alysa	Maggio	22	Elm	3	EECS	280	MATH	214	MATH	116
+Kylee	Mante	24	Hickory	2	MATH	216	EECS	280		
+Raquel	Stokes	25	Cherry	1	EECS	281				
+Clarissa	Boyle	21	Birch	1	MATH	215				
+Loy	Cartwright	22	Ash	2	EECS	215	MATH	116		
+Neil	Lubowitz	24	Hemlock	1	IOE	265				
+Webster	Frami	17	Elm	2	PHYSICS	241	MECHENG	250		
+Imogene	Wehner	24	Birch	3	ENGR	110	EECS	280	PHYSICS	140
+Tomasa	Collins	21	Hemlock	3	EECS	280	MATH	215	MATH	116
+Darius	Halvorson	19	Cherry	2	EECS	280	MATH	116		
+Everett	Ward	21	Elm	3	EECS	215	ENGR	151	MATH	214
+Al	Tillman	21	Birch	3	ENGR	101	MECHENG	240	EECS	280
+Vaughn	Walker	20	Pine	3	PHYSICS	141	MATH	115	EECS	281
+Lizeth	Hane	25	Sycamore	2	MECHENG	240	MATH	116		
+Maurine	Rath	24	Maple	3	EECS	281	EECS	215	ENGR	110
+Mittie	Kessler	23	Spruce	1	MECHENG	240				
+Ezekiel	Deckow	24	Spruce	1	MATH	214				
+Joshua	Harvey	18	Birch	1	IOE	310				
+Lew	Wiza	23	Sycamore	1	MECHENG	240				
+Reina	Parker	19	Birch	3	EECS 	203	MATH	115	PHYSICS	240
+Zion	Hilpert	24	Fir	1	PHYSICS	141				
+Fredrick	Auer	25	Hawthorn	2	ENGR	101	IOE	310		
+Dereck	Hessel	22	Fir	3	MATH	215	EECS	215	EECS	280
+Sam	Kuhlman	17	Pine	1	MECHENG	250				
+Angie	Prosacco	25	Maple	2	MECHENG	250	ENGR	100		
+Julien	Von	16	Hawthorn	3	ENGR	100	ENGR	100	MECHENG	240
+Reuben	Lowe	20	Sycamore	2	MATH	115	IOE	265		
+Ahmad	Roberts	21	Ash	1	MATH	116				
+Ozella	Kuhlman	18	Ash	1	MATH	216				
+Elliott	Ratke	19	Cherry	3	MATH	215	PHYSICS	241	MATH	216
+Jerome	Schinner	24	Fir	2	MATH	214	MATH	216		
+Marge	Greenfelder	19	Willow	3	MECHENG	240	PHYSICS	240	EECS	280
+Xzavier	Zboncak	22	Elm	1	MATH	216				
+Oleta	Bartell	21	Elm	2	PHYSICS	241	MATH	216		
+Luella	Windler	25	Birch	3	MECHENG	250	MATH	216	IOE	310
+Christiana	Ratke	25	Ash	3	PHYSICS	141	PHYSICS	140	ENGR	100
+Amina	Pfannerstill	25	Beech	1	EECS 	203				
+David	Heller	22	Cherry	3	IOE	310	ENGR	110	EECS	280
+Norene	D'Amore	18	Aspen	3	MATH	216	PHYSICS	141	CHEM	125
+Rachel	Parker	22	Beech	1	EECS	280				
+Lola	Bergstrom	22	Aspen	3	MECHENG	240	CHEM	125	MATH	116
+Alf	Gibson	25	Sycamore	3	MATH	215	MATH	116	IOE	310
+Rod	Dicki	22	Pine	1	PHYSICS	241				
+Anissa	Morissette	18	Maple	1	ENGR	100				
+Carmen	Donnelly	19	Cherry	3	CHEM	125	ENGR	101	IOE	310
+Leatha	Gusikowski	20	Fir	2	EECS	281	EECS 	203		
+Caesar	Rogahn	23	Hawthorn	3	MECHENG	240	MATH	215	ENGR	110
+Tod	King	19	Beech	2	ENGR	151	EECS 	203		
+Arlo	Sipes	20	Beech	1	IOE	265				
+Gladyce	Hegmann	17	Elm	1	PHYSICS	241				
+Vicenta	Conn	18	Hawthorn	3	ENGR	100	MATH	214	PHYSICS	240
+Wilton	Jerde	21	Pine	1	ENGR	151				
+Lenny	Fahey	22	Hickory	3	MATH	116	MATH	216	ENGR	110
+Macey	Haag	21	Ash	1	IOE	265				
+Lelia	Reichel	24	Willow	1	PHYSICS	140				
+Melissa	Wyman	24	Ash	2	MECHENG	240	PHYSICS	140		
+Madyson	Rogahn	22	Hickory	1	EECS 	203				
+Sadye	Carter	23	Hawthorn	1	MECHENG	240				
+Thomas	Wuckert	16	Elm	3	ENGR	100	MATH	216	IOE	265
+Tatum	Gleichner	19	Hemlock	3	ENGR	151	PHYSICS	241	ENGR	100
+Wilford	Jaskolski	16	Cherry	1	ENGR	101				
+Baby	Osinski	17	Beech	2	MECHENG	240	MATH	116		
+Maci	Conn	25	Fir	1	ENGR	100				
+Barbara	Pouros	19	Fir	3	EECS	281	IOE	265	CHEM	125
+Scottie	Runte	19	Birch	2	MECHENG	250	ENGR	101		
+Jedediah	Cole	17	Spruce	2	MECHENG	250	MATH	116		
+Coleman	Schmidt	16	Maple	3	PHYSICS	240	MATH	116	EECS	281
+Owen	Veum	25	Willow	2	ENGR	110	EECS 	203		
+Marcellus	Nicolas	22	Hickory	3	PHYSICS	240	ENGR	151	MECHENG	240
+Geoffrey	Kuhn	23	Pine	2	PHYSICS	241	ENGR	151		
+Jaclyn	Schoen	18	Beech	2	MATH	115	IOE	310		
+Janet	Haag	19	Hemlock	3	EECS	280	CHEM	125	MECHENG	250
+Leo	Mueller	20	Ash	1	EECS 	203				
+Brooks	Larson	20	Birch	1	PHYSICS	241				
+Roman	Crooks	16	Hickory	3	ENGR	151	PHYSICS	140	EECS 	203
+Althea	Dickinson	20	Pine	1	MATH	116				
+Alexis	Jacobi	25	Elm	3	MATH	116	MATH	215	MECHENG	250
+Cassandra	Dickinson	20	Fir	2	EECS 	203	EECS 	203		
+Cielo	Hayes	24	Aspen	2	ENGR	110	CHEM	125		
+Caden	Turner	16	Hemlock	1	MATH	216				
+Gideon	Schaden	16	Birch	3	PHYSICS	141	PHYSICS	241	EECS 	203
+Tessie	Rempel	23	Pine	2	IOE	310	PHYSICS	240		
+Enos	Carter	16	Beech	1	MATH	214				
+Alice	Murphy	21	Hawthorn	1	ENGR	100				
+Wilmer	Wilkinson	25	Elm	1	MATH	215				
+Austyn	Rogahn	22	Hemlock	1	IOE	265				
+Melyna	O'Keefe	23	Sycamore	1	IOE	265				
+Crystel	Bahringer	16	Beech	3	MATH	116	MATH	215	CHEM	125
+Enos	Hilpert	18	Ash	1	MATH	115				
+Mallie	Skiles	17	Hemlock	2	MATH	214	CHEM	125		
+Kenna	Grant	25	Elm	2	MECHENG	240	MATH	214		
+Alec	Howe	23	Aspen	1	CHEM	125				
+Gerson	Mosciski	18	Beech	3	ENGR	110	PHYSICS	240	PHYSICS	241
+Jarrod	Kessler	21	Sycamore	2	MECHENG	250	ENGR	100		
+Terrell	Doyle	17	Sycamore	2	EECS	281	PHYSICS	141		
+Idell	Ratke	24	Aspen	3	PHYSICS	240	ENGR	151	EECS 	203
+Nannie	Armstrong	21	Hawthorn	3	ENGR	101	EECS	215	MATH	215
+Abigail	Huel	19	Birch	3	ENGR	101	CHEM	125	PHYSICS	240
+Kenny	Zieme	22	Ash	3	EECS	280	ENGR	110	EECS	280
+Jacey	Kuhn	20	Beech	1	EECS	281				
+Gloria	Kilback	24	Aspen	1	MATH	214				
+Jacinto	Kuhlman	23	Hickory	1	IOE	310				
+Elroy	Watsica	24	Aspen	3	EECS 	203	EECS 	203	IOE	265
+Roman	Bradtke	21	Fir	1	MATH	216				
+Dakota	Wunsch	22	Beech	2	EECS	281	MATH	115		
+Jada	Kuhic	21	Hawthorn	1	EECS	281				
+Rico	Walter	21	Hickory	2	IOE	310	EECS	281		
+Katelynn	Kshlerin	19	Hawthorn	1	ENGR	101				
+Kianna	Boyle	23	Spruce	1	MATH	215				
+Rafaela	Runolfsdottir	19	Aspen	3	MATH	215	IOE	310	MECHENG	250
+Ocie	Schoen	16	Birch	2	MATH	214	CHEM	125		
+Herta	Boyer	18	Hemlock	2	EECS	280	ENGR	101		
+Catalina	Rutherford	18	Spruce	2	MATH	116	PHYSICS	141		
+Nash	Daniel	21	Fir	3	CHEM	125	EECS 	203	CHEM	125
+Evelyn	Macejkovic	24	Sycamore	3	ENGR	151	MECHENG	240	MECHENG	250
+Brandon	Batz	20	Elm	3	CHEM	125	MATH	116	MATH	214
+Mayra	Hilll	24	Willow	3	CHEM	125	MATH	215	ENGR	151
+Carolyne	Kulas	17	Cherry	1	ENGR	151				
+Hassie	Schroeder	23	Sycamore	3	PHYSICS	241	MECHENG	250	MECHENG	240
+Dalton	Terry	19	Ash	1	MATH	116				
+Braeden	Durgan	20	Maple	2	MATH	216	ENGR	151		
+Alba	Hoeger	22	Aspen	1	ENGR	110				
+Emory	Barrows	23	Fir	3	ENGR	100	MECHENG	250	EECS	215
+Brooks	Kulas	18	Maple	2	MATH	116	MATH	115		
+Nicola	Walter	22	Hickory	3	MATH	214	IOE	310	MATH	115
+Jany	Christiansen	22	Sycamore	2	MECHENG	250	EECS	215		
+Ashtyn	Kris	24	Beech	1	EECS	215				
+Mariane	Muller	16	Elm	2	PHYSICS	240	PHYSICS	240		
+Israel	Raynor	23	Spruce	2	EECS	280	MATH	116		
+Burley	Schmeler	23	Birch	2	ENGR	101	ENGR	110		
+Kathleen	Howe	18	Spruce	1	EECS 	203				
+Scotty	Johnson	20	Hickory	1	MECHENG	250				
+Adrain	Kunze	20	Maple	3	PHYSICS	140	IOE	310	MATH	116
+Abe	Oberbrunner	25	Hickory	1	EECS 	203				
+Dane	Rath	25	Beech	2	PHYSICS	141	EECS	215		
+Norene	Quitzon	24	Hawthorn	3	EECS	215	PHYSICS	241	PHYSICS	241
+Wilfredo	Hoppe	16	Sycamore	2	PHYSICS	140	PHYSICS	141		
+Tracy	Cruickshank	19	Beech	2	IOE	265	PHYSICS	241		
+Eliza	Rau	17	Birch	2	MATH	216	MECHENG	240		
+Lorine	Gerhold	24	Sycamore	3	EECS	215	MATH	115	EECS 	203
+Nathanial	Stokes	23	Hawthorn	1	MATH	214				
+Mauricio	Dooley	16	Birch	1	PHYSICS	140				
+Lyric	Spinka	18	Hawthorn	3	MECHENG	240	PHYSICS	241	EECS	280
+Markus	McKenzie	16	Aspen	1	PHYSICS	140				
+Torrance	Johnson	22	Hawthorn	2	MECHENG	250	MATH	116		
+Vita	Bruen	23	Birch	2	ENGR	151	ENGR	110		
+Samanta	Beahan	18	Hawthorn	1	PHYSICS	141				
+Minerva	Durgan	22	Pine	3	MATH	216	MECHENG	240	MECHENG	240
+Angeline	Hackett	19	Beech	3	PHYSICS	241	PHYSICS	141	PHYSICS	240
+Jake	Ankunding	23	Ash	3	MATH	116	ENGR	110	MECHENG	240
+
+Frida	Lindgren	17	Willow	3	PHYSICS	241	MATH	115	ENGR	101
+Manuela	Ondricka	19	Cherry	3	MATH	215	MECHENG	240	EECS 	203
+Jazmyne	Mills	21	Hickory	1	MATH	216				
+Katarina	Welch	17	Hickory	1	ENGR	100				
+Lysanne	Osinski	23	Elm	3	IOE	310	PHYSICS	141	EECS	280
+Peter	Monahan	23	Beech	3	CHEM	125	IOE	310	EECS 	203
+Kiera	Kuhic	23	Birch	2	PHYSICS	140	MATH	215		
+Ike	Nader	18	Hickory	1	ENGR	151				
+Kelly	Nader	25	Sycamore	1	IOE	265				
+Bernie	Kris	20	Fir	2	MATH	216	MATH	115		
+Gina	Fisher	24	Fir	3	MATH	115	PHYSICS	140	MATH	215
+Clementine	Kuphal	17	Cherry	2	EECS 	203	PHYSICS	141		
+Ned	Ernser	17	Aspen	1	ENGR	101				
+Liliana	Schowalter	19	Fir	1	ENGR	151				
+Nico	Robel	22	Spruce	2	EECS	280	ENGR	151		
+Khalil	Quigley	16	Elm	1	CHEM	125				
+Syble	Ziemann	21	Willow	3	IOE	265	MATH	115	MATH	116
+Eliza	Ritchie	16	Spruce	1	CHEM	125				
+Adan	McDermott	22	Birch	1	CHEM	125				
+Dane	Murphy	16	Hawthorn	2	MECHENG	250	EECS 	203		
+Modesto	Kub	25	Beech	3	MATH	115	PHYSICS	141	PHYSICS	141
+Brant	Pagac	25	Sycamore	3	MATH	215	MECHENG	240	MATH	214
+Bette	Huels	16	Cherry	1	MATH	215				
+Braxton	Strosin	21	Elm	2	ENGR	151	MATH	116		
+Toni	Feil	20	Spruce	1	ENGR	151				
+Freida	Johnson	18	Birch	1	EECS 	203				
+Caesar	Torphy	24	Hemlock	2	ENGR	151	IOE	265		
+Glennie	Prosacco	18	Beech	1	ENGR	100				
+Marquis	Sawayn	18	Elm	3	MATH	116	MECHENG	250	PHYSICS	241
+Waino	Hoppe	20	Sycamore	3	MATH	215	CHEM	125	ENGR	100
+Noemie	Nikolaus	22	Willow	1	ENGR	101				
+Dion	Kessler	21	Hickory	3	EECS	280	MATH	215	PHYSICS	140
+Thalia	Vandervort	22	Aspen	2	ENGR	151	EECS	281		
+Osvaldo	Raynor	18	Elm	3	MECHENG	250	PHYSICS	141	PHYSICS	241
+Michelle	Gerlach	21	Hawthorn	1	MATH	214				
+Bernardo	Bechtelar	17	Aspen	1	PHYSICS	140				
+Meghan	Rutherford	23	Elm	3	EECS	281	MATH	115	MATH	215
+Blanca	Mertz	18	Pine	1	PHYSICS	240				
+Dante	Renner	20	Beech	2	IOE	310	MECHENG	240		
+Neil	Braun	17	Beech	3	PHYSICS	141	EECS	280	MECHENG	250
+Judd	Zboncak	22	Hemlock	2	MATH	116	PHYSICS	241		
+Archibald	Kassulke	20	Hickory	3	MATH	116	IOE	265	EECS	280
+Kenyon	Harris	17	Fir	1	CHEM	125				
+Evan	Carter	25	Willow	1	MATH	216				
+Rosendo	Kuhic	17	Ash	2	PHYSICS	241	MATH	116		
+Elinore	Kling	16	Hickory	3	PHYSICS	141	IOE	265	ENGR	151
+Isaac	Stark	20	Maple	2	EECS 	203	ENGR	110		
+Leatha	Abshire	19	Pine	1	IOE	265				
+Cristal	Little	25	Elm	3	ENGR	101	MATH	216	MATH	116
+Bernice	Luettgen	16	Fir	3	MATH	214	PHYSICS	141	MATH	216
+Torrance	Dickinson	20	Fir	3	IOE	265	PHYSICS	241	PHYSICS	241
+Arianna	O'Keefe	16	Hickory	1	ENGR	100				
+Nolan	Boyle	22	Ash	3	MATH	215	IOE	265	EECS	281
+Lenny	Emmerich	17	Birch	2	EECS	280	MATH	215		
+Carolyne	Zemlak	17	Hickory	1	EECS 	203				
+Melody	Prohaska	21	Sycamore	3	PHYSICS	140	PHYSICS	240	ENGR	110
+Clint	Krajcik	22	Spruce	3	MATH	215	MECHENG	240	MATH	214
+Tristin	Gaylord	17	Beech	3	ENGR	101	MECHENG	250	PHYSICS	240
+Paxton	Wuckert	19	Hawthorn	1	IOE	310				
+Rebeka	Howell	22	Birch	3	EECS 	203	ENGR	151	PHYSICS	240
+Carlee	Ruecker	18	Spruce	3	EECS	280	EECS	215	PHYSICS	240
+Alia	Bradtke	20	Aspen	3	MATH	214	ENGR	101	IOE	265
+Reuben	Robel	22	Fir	1	IOE	310				
+Jorge	Conn	25	Sycamore	3	MATH	115	ENGR	151	ENGR	101
+Cassidy	Walter	17	Sycamore	1	MATH	115				
+Oswaldo	Kovacek	17	Birch	3	PHYSICS	240	MATH	214	ENGR	110
+Kyleigh	Cassin	20	Pine	2	ENGR	100	MATH	116		
+Kendra	Toy	17	Aspen	3	EECS	280	EECS	281	IOE	265
+Aniyah	Green	21	Beech	2	MATH	214	CHEM	125		
