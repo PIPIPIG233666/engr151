@@ -59,27 +59,39 @@ int main() {
   // }
   int i = 0;
   const double h_tar = 2000;
-  double M_fuel_max = lineVec[i] / 0.00981, M_fuel_min = 0, M_fuel = M_fuel_max,
-         low = M_fuel_min, high = M_fuel_max;
+  double M_fuel_max = lineVec[i] / 0.00981 - lineVec[i + 2], M_fuel_min = 0,
+         M_fuel = M_fuel_min;
   double h = getH_n(lineVec[i], lineVec[i + 1], M_fuel, lineVec[i + 2]);
-  if (h < h_tar) {
-    cout << "Rocket too heavy";
-    return 1;
-  }
+  cout << h<<endl;
+  cout << M_fuel_max << endl;
+  // if (h < h_tar) {
+    // cout << "Rocket too heavy";
+    // return 1;
+  // }
   if (h == 1) {
     cout << "Escape velocity reached";
   }
-  while (abs(h - h_tar) > 5) {
-    if (h > h_tar)
-      high = M_fuel;
-    else
-      low = M_fuel;
-
-    M_fuel = .5 * (high + low);
+  double err = abs(h - h_tar);
+  const double err_max = 0.2 / 100 * h_tar;
+  while (err > err_max) {
+    if (err > 50) {
+      if (err > err_max)
+        M_fuel += 25;
+      else
+        M_fuel -= 25;
+    } else {
+      if (err > err_max)
+        M_fuel += 5;
+      else
+        M_fuel -= 5;
+    }
 
     h = getH_n(lineVec[i], lineVec[i + 1], M_fuel, lineVec[i + 2]);
+err = abs(h - h_tar);
+
+    cout << "fuel " << M_fuel << " at height diff " << err << endl;
   }
-  cout << M_fuel - lineVec[i+2];
+  cout << M_fuel-250;
 
   return 0;
 }

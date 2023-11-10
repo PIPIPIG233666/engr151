@@ -78,8 +78,9 @@ int main() {
     M_fuel = .5 * (high + low);
 
     h = getH_n(lineVec[i], lineVec[i + 1], M_fuel, lineVec[i + 2]);
+    cout << "fuel " << M_fuel << " at height diff " << h - h_tar << endl;
   }
-  cout << M_fuel - lineVec[i+2];
+  cout << M_fuel;
 
   return 0;
 }
