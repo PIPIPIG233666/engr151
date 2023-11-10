@@ -1,204 +1,211 @@
-#include <cstdlib>
-#include <fstream>
 #include <iostream>
 #include <string>
+#include <cstdlib>
 #include <vector>
+#include <fstream>
 using namespace std;
 
-// Forward declarations
+//class and struct declarations YOU WILL IMPLEMENT THESE!
 struct Rider;
 class Bus;
 
-// Define Rider struct
-struct Rider {
-    string startLocation;
-    string endLocation;
-};
-
-// Define Bus class
-class Bus {
-public:
-    // Constructor
-    Bus(string n, vector<string> s, int i);
-
-    // Member functions
-    bool getOn(Rider rider);
-    bool stopsAt(string dest);
-    void drive();
-
-private:
-    // Member variables
-    int id;
-    string routeName;
-    vector<string> stops;
-    vector<string> riderDestinations;
-    int capacity;
-    int currentStop;
-};
-
-
-// Bus constructor implementation
-Bus::Bus(string n, vector<string> s, int i) : id(i), routeName(n), stops(s), capacity(50), currentStop(0) {
-    cout << "created bus " << id << " driving route " << routeName << endl;
-}
-
-// Bus member function implementations
-bool Bus::getOn(Rider rider) {
-    if (capacity >= 50) {
-        return false;
-    } else if (stops.at(currentStop) != rider.endLocation) {
-        return false;
-    } else if (!stopsAt(rider.endLocation)) {
-        return false;
-    } else {
-        // Let the rider on
-        riderDestinations.push_back(rider.endLocation);
-        return true;
-    }
-}
-
-bool Bus::stopsAt(string dest) {
-    for (unsigned int i = 0; i < stops.size(); i++) {
-        if (dest == stops.at(i)) {
-            return true;
-        }
-    }
-    return false;
-}
-
-void Bus::drive() {
-    // Drive to the next stop
-    currentStop = (currentStop + 1) % stops.size();
-
-    // Check for anyone getting off
-    int gotOff = 0;
-    for (unsigned int i = 0; i < riderDestinations.size();) {
-        // Check whether a rider is getting off at the current stop
-        if (riderDestinations.at(i) == stops.at(currentStop)) {
-            gotOff++;
-            // Remove the ith rider
-            riderDestinations.erase(riderDestinations.begin() + i);
-        } else {
-            i++;
-        }
-    }
-
-    // Print out if people got off
-    if (gotOff) {
-        cout << gotOff << " people got off at " << stops.at(currentStop);
-        cout << " from bus " << id << " driving route " << routeName << endl;
-    }
-    return;
-}
-
-// Function declarations
-void readBus(vector<Bus>& buses);
-void loadRiders(vector<Rider>& waitingRiders);
-void moveBuses(vector<Bus>& buses);
-void getOn(vector<Bus>& buses, vector<Rider>& riders);
+//function declarations
+//These functions are for working on vectors of Bus/Rider objects.
+//You should make the minor modifications indicated in their definitions.
+void readBus(vector<Bus> &buses);
+void loadRiders(vector<Rider> &waitingRiders);
+void moveBuses(vector<Bus> &buses);
+void getOn(vector<Bus> &buses, vector<Rider> &riders);
 
 int main() {
-    // Declare an empty vector of type Bus called buses.
-    vector<Bus> buses;
+	//TODO: declare an empty vector of type Bus called buses.
+	/*YOUR TYPE HERE*/ buses; 
+	
+	//read in bus data from file and store in buses
+	readBus(buses);
+	
+	//TODO: declare an empty vector of type Rider called riders.
+	/*YOUR TYPE HERE*/ riders;
 
-    // Read in bus data from file and store in buses
-    readBus(buses);
+	//read in rider data from file and store in riders
+	loadRiders(riders);
 
-    // Declare an empty vector of type Rider called riders.
-    vector<Rider> riders;
+	while (riders.size()) {
+		//simulate all buses moving
+		moveBuses(buses);
+		//try to have riders get on a bus
+		getOn(buses, riders);
+	}
 
-    // Read in rider data from file and store in riders
-    loadRiders(riders);
-
-    while (riders.size()) {
-        // Simulate all buses moving
-        moveBuses(buses);
-        // Try to have riders get on a bus
-        getOn(buses, riders);
-    }
-
-    cout << "No more waiting riders!" << endl;
-    return 0;
+	cout << "No more waiting riders!" << endl;
+	return 0;
 }
 
-// Function implementations
-void readBus(vector<Bus>& buses) {
-    // Bus file format:
-    // Routename numStops stop1 stop2 stop3 ...
-    // ...
-    ifstream bus_file("buses.txt");
-    if (bus_file.fail()) {
-        cerr << "failed to open bus file.\n";
-        exit(1);
-    }
+//TODO: define a class that stores Bus data. 
+//Refer to the assignment sheet for a full specificiation of this
+//YOUR CLASS HERE
 
-    // Placeholder variables
-    string routeName;
-    int numStops;
-    int id = 0;
+//TODO: Create a Rider struct with two members:
+//1) string start location
+//2) string end location
+//YOUR STRUCT HERE
 
-    while (bus_file >> routeName >> numStops) {
-        vector<string> stops;
-        // Read in the list of stops the bus makes and store in stops
-        for (int i = 0; i < numStops; ++i) {
-            string stop;
-            bus_file >> stop;
-            stops.push_back(stop);
-        }
+//TODO: Define your Bus constructor here as 
+//  described in the assignment sheet.
+//Note that this should be outside of the class definition.
+//Your tasks:
+//1) constructor function header
+//2) initialize the three other variables to what is passed in
+/*YOUR CONSTRUCTOR HERE*/ {
+	//INITIALIZE OTHER VARIABLES HERE
+	capacity = 50;
+	currentStop = 0;
+	cout << "created bus " << id << " driving route " << routeName << endl;
+}
 
-        // Implement a Bus constructor so the following line runs
-        // Take in a route name, a vector of strings, and an ID
-        Bus temp(routeName, stops, id);
-        buses.push_back(temp);
-        // ID for the next bus will simply increase by one.
-        id += 1;
-    }
+//TODO: Define your getOn function here.
+//Take in a rider and return whether they can get on.
+//Requires three conditions to return true:
+//1) there is space on the bus
+//2) the Rider is at the same bus stop
+//3) the Rider is going to a location the bus goes to
+/*YOUR BUS getOn FUNCTION HEADER HERE*/{
+	//TODO: Fix the logic!
+	if (/*is there space on the bus*/true) {
+		return false;
+	}
+	else if (/*is the bus currently at the rider start*/true) {
+		return false;
+	}
+	else if (/*is the riders destination on this route*/true) {
+		return false;
+	}
+	else {
+		//let the rider on
+		riderDestinations.push_back(rider.end);
+		return true;			
+	}
+}
+
+//checks if dest is within this bus' stops.
+bool Bus::stopsAt(string dest) {
+	for (unsigned int i = 0; i < stops.size(); i++) {
+		if (dest == stops.at(i)) {
+			return true;
+		}
+	}
+	return false;
+}
+
+//TODO: add the function header
+//move forward one stop. Anyone with that destination gets off
+//print how many people got off, bus ID, and the location.
+//be sure to remove one of the riders (stored in destinations)
+//Your task is:
+//1) write the correct function header
+/* YOUR BUS drive FUNCTION HEADER HERE */ {
+	
+	//"Drive" to the next stop
+	//currentStop wraps around if it is larger than stops. 
+	currentStop = (currentStop + 1) % stops.size();
+	//check for anyone getting off. 
+	int gotOff = 0;
+	for (unsigned int i = 0; i < riderDestinations.size();) {
+		//check whether a rider is getting off at the current stop
+		if (riderDestinations.at(i) == stops.at(currentStop)) {
+			gotOff++;
+			//remove the ith rider
+			riderDestinations.erase(riderDestinations.begin() + i);
+		} else {
+			 i++;
+		}
+	}
+
+	//print out if people got off
+	if (gotOff) {
+		cout << gotOff << " people got off at " << stops.at(currentStop);
+		cout << " from bus " << id << " driving route " << routeName <<endl;
+	}
+	return;
+}
+
+
+void readBus(vector<Bus> &buses) {
+	//bus file format: 
+	//Routename numStops stop1 stop2 stop3 ...
+	//...
+	ifstream bus_file("buses.txt");
+	if (bus_file.fail()){
+		cerr << "failed to open bus file.\n";
+		exit(1);
+	}
+
+	//declare placeholder variables
+	string routeName;
+	int numStops;
+	int id = 0;	
+
+	while (bus_file >> routeName >> numStops){
+		vector<string> stops;
+		//read in the list of stops the bus makes and store in stops
+		for (int i = 0; i < numStops; ++i) {
+			string stop;
+			bus_file >> stop;
+			stops.push_back(stop);
+		}
+
+		//TODO: Implement a Bus constructor so the following line runs
+		// 	take in a route name, a vector of strings, and an ID
+		Bus temp(routeName, stops, id);
+		buses.push_back(temp);
+		//id for next bus will simply increase by one.
+		id += 1;
+	}
 }
 
 void loadRiders(vector<Rider>& waitingRiders) {
-    // List of start dest pairs
-    ifstream riders_file("riders.txt");
-    if (riders_file.fail()) {
-        cerr << "failed to open riders file.\n";
-        exit(1);
-    }
+	//list of start dest pairs
+	ifstream riders_file("riders.txt");
+	if (riders_file.fail()){
+		cerr << "failed to open riders file.\n";
+		exit(1);
+	}
 
-    string start, end;
-    while (riders_file >> start >> end) {
-        Rider tempRider;
-        // Assign the appropriate members of tempRider
-        // Assign start
-        tempRider.startLocation = start;
-        // Assign end
-        tempRider.endLocation = end;
-        waitingRiders.push_back(tempRider);
-    }
+	string start, end;
+	while (riders_file >> start >> end) {
+		Rider tempRider;
+		//TODO: assign the appropriate members of tempRider
+		//assign start
+		//assign end
+		waitingRiders.push_back(tempRider);
+	}
 }
 
-void moveBuses(vector<Bus>& buses) {
-    for (unsigned int i = 0; i < buses.size(); ++i) {
-        // Pull out a single Bus and call your drive member function.
-        buses[i].drive();
-    }
+void moveBuses(vector<Bus> &buses) {
+	for (unsigned int i = 0; i < buses.size(); ++i) {
+		//TODO: pull out a single Bus and call your drive member function.
+	}
 }
 
-void getOn(vector<Bus>& buses, vector<Rider>& riders) {
-    // Loop through all waiting riders
-    for (unsigned int r = 0; r < riders.size(); r++) {
-        // Look at a specific Rider in the riders vector
-        Rider rider = riders.at(r);
+void getOn(vector<Bus> &buses, vector<Rider> &riders) {
+	//loop through all waiting riders
+	for (unsigned int r = 0; r < riders.size();r++) {
+		//Look at a specific Rider in the riders vector
+		Rider rider = riders.at(r);
 
-        // Loop through all possible buses.
-        for (unsigned int b = 0; b < buses.size(); ++b) {
-            // Pull out a single Bus and attempt to get the rider on
-            // using the getOn member function of Bus.
-            if (buses[b].getOn(rider)) {
-                // Delete the rth element of riders and decrement r.
-                riders.erase(riders.begin() + r--);
-                cout << "A rider got on bus " << b << endl;
-                break;  // For your practice: why break?
-            }
-        }
-    }
+		//loop through all possible buses.
+		for (unsigned int b = 0; b < buses.size(); ++b) {
+			//TODO: pull out a single Bus and attempt to get the rider on
+			// using the getOn member function of Bus.
+			//If the rider can get on, remove the rider from riders and
+			//  break and move to the next rider
+			if (/* YOUR CODE HERE*/) {
+				//delete the rth element of riders and decrement r.
+				riders.erase(riders.begin() + r--);
+				cout << "a rider got on bus " << b << endl;
+				break; //for your practice: why break?
+			}
+		}
+	}
+
 }
-
