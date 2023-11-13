@@ -97,14 +97,14 @@ Bus::Bus(string r, vector<string> s, int d) {
 /*YOUR BUS getOn FUNCTION HEADER HERE*/
 bool Bus::getOn(Rider rider) {
   //TODO: Fix the logic!
-  if (/*is there space on the bus*/ capacity < int(riderDestinations.size())) {
+  if (/*is there space on the bus*/ capacity <= int(riderDestinations.size())) {
     // cout << "Cannot get on due to capacity"<<endl;
     return false;
-  } else if (/*is the bus currently at the rider start*/ rider.start ==
+  } else if (/*is the bus currently at the rider start*/ rider.start !=
              stops.at(currentStop)) {
     // cout << "Cannot get on due to bus start"<<endl;
     return false;
-  } else if (/*is the riders destination on this route*/ stopsAt(rider.end)) {
+  } else if (/*is the riders destination on this route*/ !stopsAt(rider.end)) {
     // cout << "Cannot get on due to no end"<<endl;
     return false;
   } else {
