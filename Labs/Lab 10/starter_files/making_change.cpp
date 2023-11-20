@@ -45,8 +45,9 @@ int main() {
     n = mod / valN;
     mod %= valN;
   }
-  if (mod > valP)
-    p = mod / valP;
+  if (mod >= valP) {
+    p += mod / valP;
+  }
   c = q + d + n + p;
 
   // Please do not make any changes to the statement below.
