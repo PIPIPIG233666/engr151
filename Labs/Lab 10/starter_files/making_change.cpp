@@ -34,12 +34,6 @@ int main() {
   if (mod > valD) {
     d = mod / valD;
     mod %= valD;
-  } else {
-    n = mod / valN;
-    d = 0;
-    mod %= valN;
-
-    p = mod / valP;
   }
   if (mod > valN) {
     n = mod / valN;
